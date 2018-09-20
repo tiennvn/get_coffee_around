@@ -1,0 +1,3183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "123 \u00d4 Ch\u1ee3 D\u1eeba, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Regiustea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.827742,
+                    21.0197216
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "56 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Gong Cha L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.845442,
+                    21.024991
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T\u00f2a nh\u00e0 D2 Gi\u1ea3ng V\u00f5, Qu\u1eadn Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+                "name": "Gong Cha Gi\u1ea3ng V\u00f5"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8221613,
+                    21.0261461
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "187 Nguy\u1ec5n V\u0103n C\u1eeb, Ph\u01b0\u1eddng Ng\u1ecdc L\u00e2m, Qu\u1eadn Long Bi\u00ean, H\u00e0 N\u1ed9i",
+                "name": "Gong Cha Nguy\u1ec5n V\u0103n C\u1eeb - Long Bi\u00ean"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.872864,
+                    21.044474
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Park 3 \u2013 Park Hill, Khu \u0111\u00f4 th\u1ecb Times City, P.Mai \u0110\u1ed9ng, Q.Ho\u00e0ng Mai, H\u00e0 N\u1ed9i",
+                "name": "Gong Cha Times City"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.869502,
+                    20.992169
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "3 H\u00e0ng C\u00f3t, P.H\u00e0ng M\u00e3, Q.Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i ",
+                "name": "Gong Cha H\u00e0ng C\u00f3t"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.847136,
+                    21.038703
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "L\u00f4 T1.5, T\u1ea7ng 1 T\u00f2a nh\u00e0 34T, khu \u0111\u00f4 th\u1ecb m\u1edbi Trung H\u00f2a, Nh\u00e2n Ch\u00ednh, \u0111\u01b0\u1eddng Ho\u00e0ng \u0110\u1ea1o Th\u00fay, ph\u01b0\u1eddng Trung H\u00f2a, qu\u1eadn C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+                "name": "Gong Cha Ho\u00e0ng \u0110\u1ea1o Th\u00fay"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8008751,
+                    21.007211
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "19 Th\u00e1i Phi\u00ean, L\u00ea \u0110\u1ea1i H\u00e0nh, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Royal Tea Th\u00e1i Phi\u00ean"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.850356,
+                    21.010551
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "16 Quang Trung, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Royal Tea Quang Trung"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.848969,
+                    21.02309
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "18 Ng\u00f4 Quy\u1ec1n ,Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Royal Tea Ng\u00f4 Quy\u1ec1n"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8534968,
+                    21.019864
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "19B10 Pha\u0323m Ngo\u0323c Tha\u0323ch, \u0110\u1ed1ng \u0110a,  H\u00e0 N\u1ed9i",
+                "name": "Royal   Tea Pha\u0323m Ngo\u0323c Tha\u0323ch"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.834775,
+                    21.008937
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1 Phan \u0110\u00ecnh Ph\u00f9ng, H\u00e0ng M\u00e3, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Royal Tea Phan \u0110\u00ecnh Ph\u00f9ng"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.846892,
+                    21.039613
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "To\u00e0 nh\u00e0 H\u1ed3 G\u01b0\u01a1m Plaza, 110 Tr\u1ea7n Ph\u00fa, P. M\u1ed7 Lao, Q. H\u00e0 \u0110\u00f4ng",
+                "name": "Royal Tea C\u01a1 S\u1edf Tr\u1ea7n Ph\u00fa \u2013 H\u00e0 \u0110\u00f4ng"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7856378,
+                    20.9790077
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "8 Ng\u00f4 Quy\u1ec1n , Ho\u00e0n Ki\u1ebfm , H\u00e0 N\u1ed9i",
+                "name": "Royal Tea Ng\u00f4 Quy\u1ec1n"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.776288,
+                    20.975778
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "188 C\u1ea7u Gi\u1ea5y, Ng\u1ecdc Kh\u00e1nh, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Royal Tea C\u1ea7u Gi\u1ea5y"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8046538,
+                    21.0287821
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "165 Gi\u1ea3ng V\u00f5, Ch\u1ee3 D\u1eeba, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Royal Tea Gi\u1ea3ng V\u00f5"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8255329,
+                    21.028165
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "2 C\u1eeda Nam, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea C\u1eeda Nam"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.842557,
+                    21.027914
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "64 Tr\u1ea7n \u0110\u0103ng Ninh, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea Tr\u1ea7n \u0110\u0103ng Ninh"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.792437,
+                    21.038839
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "76 \u0110\u00e0o T\u1ea5n, C\u1ed1ng V\u1ecb, Qu\u1eadn Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea \u0110\u00e0o T\u1ea5n"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8069971,
+                    21.0330909
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T\u1ea7ng 1 TTTM H\u1ed3 G\u01b0\u01a1m Plaza, 110 Tr\u1ea7n Ph\u00fa, M\u1ed7 Lao, H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i, Qu\u1eadn H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea Tr\u1ea7n Ph\u00fa"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7856378,
+                    20.9790077
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "5 H\u00e0ng C\u00e1, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea H\u00e0ng C\u00e1"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.849208,
+                    21.036057
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "18 Ng\u00f4 Quy\u1ec1n, Tr\u00e0ng Ti\u1ec1n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea Ng\u00f4 Quy\u1ec1n"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.855039,
+                    21.02472
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "142 V\u0169 Ph\u1ea1m H\u00e0m, Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea V\u0169 Ph\u1ea1m H\u00e0m"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.800142,
+                    21.019441
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "105 Tr\u1ea7n Duy H\u01b0ng, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea Tr\u1ea7n Duy H\u01b0ng"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8001202,
+                    21.0112772
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "515 Nguy\u1ec5n Tr\u00e3i, Thanh Xu\u00e2n Nam, Qu\u1eadn Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+                "name": "Royal Tea Nguy\u1ec5n Tr\u00e3i"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.797487,
+                    20.987148
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "23 L\u00ea \u0110\u1ea1i H\u00e0nh, Hai B\u00e0 Tr\u01b0ng",
+                "name": "Dingtea C\u01a1 s\u1edf 1"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.85303,
+                    21.024045
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "163 Gi\u1ea3ng V\u00f5, \u0110\u1ed1ng \u0110a",
+                "name": "Dingtea C\u01a1 s\u1edf 2"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.825554,
+                    21.028183
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "47 H\u00e0ng C\u00f3t, Ho\u00e0n Ki\u1ebfm",
+                "name": "Dingtea C\u01a1 s\u1edf 3"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.847202,
+                    21.037158
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "180 C\u1ea7u Gi\u1ea5y, C\u1ea7u Gi\u1ea5y",
+                "name": "Dingtea C\u01a1 s\u1edf 4"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.797715,
+                    21.033702
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "102 Tr\u1ea7n Duy H\u01b0ng, C\u1ea7u Gi\u1ea5y",
+                "name": "Dingtea C\u01a1 s\u1edf 5"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.800354,
+                    21.011543
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1B Nguy\u1ec5n H\u1eefu Hu\u00e2n, Ho\u00e0n Ki\u1ebfm",
+                "name": "Dingtea C\u01a1 s\u1edf 6"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.854482,
+                    21.035044
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "26 Th\u00e1i H\u00e0, \u0110\u1ed1ng \u0110a",
+                "name": "Dingtea C\u01a1 s\u1edf 7"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.822993,
+                    21.01005
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "15A \u0110\u00e0o T\u1ea5n, Ba \u0110\u00ecnh",
+                "name": "Dingtea C\u01a1 s\u1edf 8"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8060148,
+                    21.0337572
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "306 Nguy\u1ec5n Tr\u00e3i, Thanh Xu\u00e2n",
+                "name": "Dingtea C\u01a1 s\u1edf 9"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.810742,
+                    20.996559
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "12 Tr\u1ea7n Ph\u00fa, H\u00e0 \u0110\u00f4ng",
+                "name": "Dingtea C\u01a1 s\u1edf 11"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.780934,
+                    20.974954
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "8B4 Kim Li\u00ean, Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, \u0110\u1ed1ng \u0110a",
+                "name": "Dingtea C\u01a1 s\u1edf 12"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.836544,
+                    21.010427
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "266 Nguy\u1ec5n V\u0103n C\u1eeb, Long Bi\u00ean",
+                "name": "Dingtea C\u01a1 s\u1edf 13"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.873957,
+                    21.04469
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "114 H\u1ed3 T\u00f9ng M\u1eadu, C\u1ea7u Gi\u1ea5y",
+                "name": "Dingtea C\u01a1 s\u1edf 14"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.766025,
+                    21.040606
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "28A Cao L\u1ed7, \u0110\u00f4ng Anh",
+                "name": "Dingtea C\u01a1 s\u1edf 15"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8459419,
+                    21.1411997
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T\u1ea7ng 1 - Big C - Tr\u1ea7n Duy H\u01b0ng",
+                "name": "Dingtea C\u01a1 s\u1edf 16"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7929755,
+                    21.0070884
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "20 T\u00e2n Mai, Ho\u00e0ng Mai",
+                "name": "Dingtea C\u01a1 s\u1edf 17"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.846413,
+                    20.983479
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "28 Tr\u01b0ng Nh\u1ecb - H\u00e0 \u0110\u00f4ng",
+                "name": "Dingtea C\u01a1 s\u1edf 18"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7785522,
+                    20.9708476
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "69 Quang Trung, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 19"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.847098,
+                    21.017223
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "109A Th\u1ee5y Khu\u00ea - T\u00e2y H\u1ed3",
+                "name": "Dingtea C\u01a1 s\u1edf 20"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8063029,
+                    21.0229818
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "72 Ch\u00f9a L\u00e1ng - \u0110\u1ed1ng \u0110a",
+                "name": "Dingtea C\u01a1 s\u1edf 21"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.824603,
+                    21.0349049
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "164C \u0110\u1ed9i C\u1ea5n",
+                "name": "Dingtea C\u01a1 s\u1edf 22"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.824603,
+                    21.0349049
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "100 Trung K\u00ednh",
+                "name": "Dingtea C\u01a1 s\u1edf 23"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7950419,
+                    21.011805
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "18 L\u00ea V\u0103n Hi\u1ebfn - C\u1ed5 Nhu\u1ebf",
+                "name": "Dingtea C\u01a1 s\u1edf 24"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7749158,
+                    21.0741981
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T\u1ea7ng 1 - Big C Long Bi\u00ean",
+                "name": "Dingtea C\u01a1 s\u1edf 25"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8912971,
+                    21.0508358
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T103-1 TTTM Aeon Mall, Long Bi\u00ean",
+                "name": "Dingtea C\u01a1 s\u1edf 26"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8969159,
+                    21.027394
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T\u1ea7ng 3,TTTM H\u1ed3 G\u01b0\u01a1m Plaza, H\u00e0 \u0110\u00f4ng",
+                "name": "Dingtea C\u01a1 s\u1edf 27"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7856378,
+                    20.9790077
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "273 T\u00f4 Hi\u1ec7u, C\u1ea7u Gi\u1ea5y",
+                "name": "Dingtea C\u01a1 s\u1edf 28"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7914834,
+                    21.0416351
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "841 Ng\u00f4 Gia T\u1ef1, Long Bi\u00ean",
+                "name": "Dingtea C\u01a1 s\u1edf 29"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.902732,
+                    21.070986
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1A-M3 TT6 B\u1eafc Linh \u0110\u00e0m, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 30"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.830065,
+                    20.9696874
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "82-84 \u00d4 Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 31"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8283268,
+                    21.0193985
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 2 Nguy\u1ec5n Xi\u1ec3n, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 31"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7831409,
+                    21.0095242
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 1 Nh\u00e0 Chung, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 32"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.849682,
+                    21.028687
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "27 H\u00e0ng Than, Ha N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 33"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.84732,
+                    21.041776
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "\u01101-20 t\u1ea7ng B1T4 TTTM Times City, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 34"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.869423,
+                    20.995122
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "B2-R4-10B TTTM Royal City, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 35"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.813696,
+                    21.0029896
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "23E Hai Ba Tr\u01b0ng, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 36"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8528613,
+                    21.0239658
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "157 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 37"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8430987,
+                    21.0011839
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "22 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 38"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8395299,
+                    21.030043
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "100 Kim Giang, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 39"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8139022,
+                    20.9821702
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "103 C\u1ea7u Di\u1ec5n, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 40"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7616039,
+                    21.03685
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1194 \u0110\u01b0\u1eddng L\u00e1ng, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 41"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.799671,
+                    21.027797
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "241 Kh\u00e2m Thi\u00ean, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 42"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.832689,
+                    21.019333
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "355 Ng\u1ecdc L\u00e2m, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 43"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8711099,
+                    21.047954
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "50 L\u00e1ng H\u1ea1, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 44"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8180141,
+                    21.0213789
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "169 Xu\u00e2n Th\u1ee7y, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 45"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7851209,
+                    21.036376
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "47 Hu\u1ef3nh Th\u00fac Kh\u00e1ng, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 46"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8081149,
+                    21.0187009
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "HH1A B\u00e1n \u0111\u1ea3o Linh \u0110\u00e0m, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 47"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.830065,
+                    20.9696874
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "252 Tr\u1ea7n Kh\u00e1t Ch\u00e2n, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 48"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.860625,
+                    21.009338
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "439 Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 49"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.864721,
+                    21.003131
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "156 L\u1ea1c Trung, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 50"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.864721,
+                    21.003131
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "46 Kim M\u00e3, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 51"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.825653,
+                    21.030554
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "59 L\u1ea1c Long Qu\u00e2n, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 52"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8038609,
+                    21.047911
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "185 Quang Trung, H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 53"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7715575,
+                    20.9691017
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "150 L\u01b0\u01a1ng \u0110\u1ecbnh C\u1ee7a, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 54"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8337399,
+                    21.003716
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1C H\u1ed3 \u0110\u1eafc Di, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 55"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8306142,
+                    21.0110752
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "279 Ng\u00f4 Xu\u00e2n Qu\u1ea3ng, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 56"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.9348551,
+                    21.0104809
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Sun Square 21 L\u00ea \u0110\u1ee9c Th\u1ecd, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 57"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7681497,
+                    21.0349313
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "TTTM The Garden M\u1ec5 Tr\u00ec, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 58"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7756279,
+                    21.0152501
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "81 Nguy\u1ec5n Tr\u00e3i, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 59"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.818548,
+                    21.0017989
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "18 Ph\u1ed1 Tr\u00fac, Ecopark",
+                "name": "Dingtea C\u01a1 s\u1edf 60"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.921011,
+                    20.9737963
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "425 B\u1ea1ch Mai, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 61"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.850634,
+                    21.000809
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "69 L\u00f4 7, \u0110\u1ec1n L\u1eeb 2, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 62"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8556686,
+                    20.9857921
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "42 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 63"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8056459,
+                    21.0073835
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "BigC s\u1ed1 3 L\u00ea Tr\u1ecdng T\u1ea5n, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 64"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8283724,
+                    20.999841
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "58 V\u00f5 Th\u1ecb S\u00e1u, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 65"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.852535,
+                    21.0061027
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "28A Xu\u00e2n La, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 66"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8058303,
+                    21.0666128
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "105 Ph\u1ed1 Nh\u1ed5n, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 67"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7299918,
+                    21.0562925
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "125 Tr\u1ea7n Huy Li\u1ec7u, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 68"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8220947,
+                    21.027451
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "32 Tr\u1ea7n Nguy\u00ean \u0110\u00e1n, \u0110\u1ecbnh C\u00f4ng, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 69"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8312269,
+                    20.9861967
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "85 Nguy\u1ec5n Khang, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 70"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.801655,
+                    21.01875
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "CT8B Khu \u0111\u00f4 th\u1ecb \u0110\u1ea1i Thanh, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 71"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8070074,
+                    20.9569987
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "47B Tr\u1ea7n Ph\u00fa, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 72"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8625471,
+                    20.8694736
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "H\u1ecdc vi\u1ec7n c\u1ea3nh s\u00e1t, B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 73"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7641405,
+                    21.0650499
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "13 Nguy\u1ec5n Th\u00e1i H\u1ecdc, S\u01a1n T\u00e2y, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 74"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.5022403,
+                    21.1368848
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 3A2 Shop House V\u1ea1n Ph\u00fac, T\u1ed1 H\u1eefu, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 75"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.771517,
+                    20.9838776
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "A6-A7, T\u1ea7ng 1 T\u00f2a A TTTM Imperia Garden, H\u00e0 N\u1ed9i",
+                "name": "Dingtea C\u01a1 s\u1edf 76"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8012585,
+                    20.9974259
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "166 ph\u1ed1 \u00d4 Ch\u1ee3 D\u1eeba, ph\u01b0\u1eddng \u00d4 Ch\u1ee3 D\u1eeba, qu\u1eadn \u0110\u1ed1ng \u0110a, Hanoi",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8263479,
+                    21.0200773
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "232 L\u1ea1c Trung - Hai B\u00e0 Tr\u01b0ng, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8667444,
+                    21.0029914
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "290 Th\u00e1i H\u00e0, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8177087,
+                    21.0151471
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 7 Tr\u1ea7n Nguy\u00ean H\u00e3n , Ho\u00e0n Ki\u1ebfm, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.856491,
+                    21.029028
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "56 Nguy\u1ec5n Phong S\u1eafc, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7907172,
+                    21.0394112
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "50 Tr\u1ea7n Ph\u00fa, H\u00e0 \u0110\u00f4ng, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7933862,
+                    20.9844003
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "120 T\u00e2n Mai, Ph\u01b0\u1eddng T\u00e2n Mai, Qu\u1eadn Ho\u00e0ng Mai, Hanoi",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8464158,
+                    20.9837433
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "7 L\u00ea \u0110\u1ea1i H\u00e0nh, Hai B\u00e0 Tr\u01b0ng, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8504775,
+                    21.0092622
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "10 Ch\u00f9a L\u00e1ng, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.808883,
+                    21.022892
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "18 \u0111\u01b0\u1eddng Nguy\u1ec5n Khang, ph\u01b0\u1eddng Y\u00ean H\u00f2a, Qu\u1eadn C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7991454,
+                    21.0196218
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "132 Ph\u1ed1 Hu\u1ebf, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8513956,
+                    21.0158244
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T\u1ea7ng 3, Aeon Long Bi\u00ean,Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.89911,
+                    21.027389
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "18 Nguy\u1ec5n Xi\u1ec3n, Thanh Xu\u00e2n, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8019329,
+                    20.9906761
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 6 H\u1ed3 T\u00f9ng M\u1eadu,Mai D\u1ecbch, C\u1ea7u Gi\u1ea5y, Mai Dich, Ha Noi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.772479,
+                    21.038415
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "103 \u0110\u00e0o T\u1ea5n, Ng\u1ecdc Kh\u00e1nh, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8059226,
+                    21.0337086
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "5B7 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8358153,
+                    21.0099241
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 8 Th\u01b0\u1ee3ng \u0110\u00ecnh,Kh\u01b0\u01a1ng \u0110\u00ecnh,Thanh Xu\u00e2n, Hanoi, Vietnam",
+                "name": "Bobapop - Taiwan Lattea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8133579,
+                    20.9979109
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "188 Th\u00e1i H\u00e0 - \u0110\u1ed1ng \u0110a - H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8170653,
+                    21.0135176
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "92 C\u1eeda B\u1eafc, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8401629,
+                    21.041506
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "118 Ph\u00fa Di\u1ec5n, Q.B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7646084,
+                    21.0589985
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Lai X\u00e1, Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7154776,
+                    21.0649892
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "28B Nguy\u1ec5n Khang,C\u1ea7u Gi\u1ea5y,HN",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7983269,
+                    21.029677
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "66 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, HBT, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8452963,
+                    21.0011521
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "20 Nh\u1ed5n,P.T\u00e2y T\u1ef1u, B\u1eafc T\u1eeb Li\u00eam",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7385336,
+                    21.0865201
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "175 T\u00f4 Hi\u1ec7u,D\u1ecbch V\u1ecdng, C\u1ea7u Gi\u1ea5y",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7920599,
+                    21.041553
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "331 Kim M\u00e3, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.817409,
+                    21.030552
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "459 B\u1ea1ch Mai, HBT, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8482024,
+                    20.9973077
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "15 Nguy\u1ec5n V\u0103n L\u1ed9c, H\u00e0 \u0110\u00f4ng",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7893303,
+                    20.9823988
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "115 T\u00e2y S\u01a1n, \u0110an Ph\u01b0\u1ee3ng, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.6731923,
+                    21.0830194
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Ng\u1ecdc L\u00e2m, Long Bi\u00ean, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8686635,
+                    21.0448412
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "K4 - \u0110\u01b0\u1eddng Thanh Ni\u00ean, Time City",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.869116,
+                    20.9950183
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Km 13, Qu\u1ed1c l\u1ed9 1A c\u0169, Ng\u1ecdc H\u1ed3i, Thanh Tr\u00ec",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8532018,
+                    20.921112
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "11A \u0110\u00e0o T\u1ea5n",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8083267,
+                    21.0322088
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "350 Nguy\u1ec5n Tr\u00e3i, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8073409,
+                    20.994189
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T\u1ea7ng 5 TTTM Artemis, s\u1ed1 3 L\u00ea Tr\u1ecdng T\u1ea5n",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8284619,
+                    21.0003211
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "237 Quang Trung, H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7682795,
+                    20.9650883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "157 Nguy\u1ec5n V\u0103n C\u1eeb, Long Bi\u00ean, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8815168,
+                    21.0496827
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "259A B\u1ea1ch Mai, HBT, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8502631,
+                    21.0039544
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "19, Kh\u00e2m Thi\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.839001,
+                    21.01895
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "60 H\u1ed3 T\u00f9ng M\u1eadu, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7755678,
+                    21.0368172
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "114 C\u1ea7u G\u1ed7, Ho\u00e0n Ki\u1ebfm",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.851666,
+                    21.032243
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "T6 Vincom Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, \u0110\u1ed1ng \u0110a",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.831964,
+                    21.006304
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "451 B\u1ea1ch Mai, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.850431,
+                    20.999416
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "262 C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.80218,
+                    21.029886
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "54 C\u1ea7u Gi\u1ea5y, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7937259,
+                    21.0344352
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 2 Tr\u1ea7n Th\u00e1i T\u00f4ng, C\u1ea7u Gi\u1ea5y",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7870825,
+                    21.0360519
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "146 \u00d4 Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8273211,
+                    21.0199497
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "59 T\u00f4n \u0110\u1ee9c Th\u1eafng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8313419,
+                    21.026246
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "387 Tr\u01b0\u01a1ng \u0110\u1ecbnh, Ho\u00e0ng Mai",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8465329,
+                    20.985497
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "93 L\u00ea V\u0103n Hi\u1ebfn, B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7749158,
+                    21.0741981
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "679 Quang Trung, Ph\u00fa La, H\u00e0 \u0110\u00f4ng, Hanoi",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7628381,
+                    20.9605479
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "57 C\u1ea7u G\u1ed7, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8504818,
+                    21.0322406
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "42F L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ho\u00e0n Ki\u1ebfm",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.849723,
+                    21.0236139
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "14b4 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch,H\u00e0 N\u1ed9i ",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8364571,
+                    21.010375
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "137 T\u00e2y S\u01a1n - \u0110\u1ed1ng \u0110a - H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8234609,
+                    21.011389
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 2 Nguy\u1ec5n V\u0103n T\u1ed1, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8444689,
+                    21.032021
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "253 Tr\u1ea7n Qu\u1ed1c Ho\u00e0n,D\u1ecbch V\u1ecdng, C\u1ea7u Gi\u1ea5y",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7852284,
+                    21.0415699
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "25 L\u00ea \u0110\u1ea1i H\u00e0nh, HBT, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8470369,
+                    21.010539
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "12 T\u00e2n Mai, Ho\u00e0ng Mai",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.851139,
+                    20.982316
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "54 Nguy\u1ec5n Ch\u00ed Thanh, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.812417,
+                    21.0280475
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "4B H\u00e0ng B\u00e0i, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+                "name": "TocoToco"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.853137,
+                    21.025119
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "60 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, H\u00e0 N\u1ed9i",
+                "name": "Hefkcha L\u00ed Th\u01b0\u1eddng Ki\u1ec7t"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.844713,
+                    21.0250999
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "42C L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, H\u00e0 N\u1ed9i",
+                "name": "Heekcaa L\u00ed Th\u01b0\u1eddng Ki\u1ec7t"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8479169,
+                    21.023502
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "7 L\u00ea \u0110\u1ea1i H\u00e0nh, H\u00e0 N\u1ed9i",
+                "name": "Heekcaa L\u00ea \u0110\u1ea1i H\u00e0nh"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8503884,
+                    21.0091836
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "51A \u00d4 Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                "name": "Wang tea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8279079,
+                    21.0193681
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "S\u1ed1 4 - B14 L\u01b0\u01a1ng \u0110\u1ecbnh C\u1ee7a, H\u00e0 N\u1ed9i",
+                "name": "Taster's Choice"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.835717,
+                    21.004779
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "30 Ph\u1ed1 Hu\u1ebf, H\u00e0 N\u1ed9i",
+                "name": "Taster's Choice"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8495439,
+                    21.018864
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "58 Ch\u00f9a L\u00e1ng, H\u00e0 N\u1ed9i",
+                "name": "Taster's Choice"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.804331,
+                    21.0234859
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "73 L\u00ea Thanh Ngh\u1ecb, H\u00e0 N\u1ed9i",
+                "name": "Taster's Choice"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.844356,
+                    21.001883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "71 \u00d4 Ch\u1ee3 D\u1eeba, H\u00e0 N\u1ed9i",
+                "name": "Taster's Choice"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8256234,
+                    21.0194228
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "212C Nguy\u1ec5n Tr\u00e3i, H\u00e0 N\u1ed9i",
+                "name": "Taster's Choice"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7992885,
+                    20.9903587
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "20 L\u00ea \u0110\u1ea1i H\u00e0nh, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i",
+                "name": "Citeafun"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8489722,
+                    21.0107637
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "34 Ho\u00e0ng C\u1ea7u, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                "name": "Citeafun"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8256346,
+                    21.0209301
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "17 T\u1ea1 Quang B\u1eedu, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i",
+                "name": "Citeafun"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8456859,
+                    21.0037027
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "124 Qu\u00e1n Th\u00e1nh, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8403999,
+                    21.042431
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "183 Gi\u1ea3ng V\u00f5, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.825169,
+                    21.027327
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "233 Ph\u1ed1 Hu\u1ebf, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8496477,
+                    21.0121725
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "25 Th\u00e1i H\u00e0, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8197709,
+                    21.010998
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "29 Hai B\u00e0 Tr\u01b0ng",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7936749,
+                    21.042378
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "106A-B9 T\u00f4 Hi\u1ec7u, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8111167,
+                    21.0112589
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "124 L\u00e1ng H\u1ea1, L\u00e1ng H\u1ea1, Qu\u1eadn \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8111167,
+                    21.0112589
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "370 Nguy\u1ec5n Tr\u00e3i, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.806951,
+                    20.993909
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "318 Minh Khai, Mai \u0110\u1ed9ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8592939,
+                    20.995925
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "280 Th\u01b0\u1ee3ng \u0110\u00ecnh, Th\u01b0\u1ee3ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8156528,
+                    20.9969019
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "19 \u00d4 Ch\u1ee3 D\u1eeba, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8291096,
+                    21.0191612
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "88 H\u1ed3 T\u00f9ng M\u1eadu, Mai D\u1ecbch, Qu\u1eadn C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+                "name": "Goky"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7779,
+                    21.036749
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "47 Ph\u1ed1 Hu\u1ebf, H\u00e0 N\u1ed9i",
+                "name": "ChaChaGo"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.851666,
+                    21.01823
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "113 \u00d4 Ch\u1ee3 D\u1eeba, H\u00e0 N\u1ed9i",
+                "name": "ChaChaGo"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8257243,
+                    21.0196274
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "124 T\u00f4 Hi\u1ec7u, H\u00e0 N\u1ed9i",
+                "name": "House of Cha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7749406,
+                    20.9664576
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "4 Qu\u00e1n Th\u00e1nh, H\u00e0 N\u1ed9i",
+                "name": "House of Cha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.847202,
+                    21.040285
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "102 Ng\u1ee5y Nh\u01b0 Kom Tum, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+                "name": "House of Cha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8027418,
+                    21.0004435
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "185 Kim M\u00e3, H\u00e0 N\u1ed9i",
+                "name": "House of Cha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.823973,
+                    21.031491
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "157 X\u00e3 \u0110\u00e0n, H\u00e0 N\u1ed9i",
+                "name": "LeeTee"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8318491,
+                    21.0136949
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "215 T\u00f4n \u0110\u1ee9c Th\u1eafng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                "name": "XingCha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8292959,
+                    21.02172
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "193A B\u00e0 Tri\u1ec7u, H\u00e0 N\u1ed9i",
+                "name": "XingCha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8469461,
+                    21.0102038
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "14 Gia Ng\u01b0, H\u00e0 N\u1ed9i",
+                "name": "XingCha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8508199,
+                    21.033053
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "183 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, H\u00e0 N\u1ed9i",
+                "name": "XingCha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8432827,
+                    21.0002417
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "87 Nguy\u1ec5n Kh\u00e1nh To\u00e0n, H\u00e0 N\u1ed9i",
+                "name": "XingCha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7998658,
+                    21.0368492
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "635 Minh Khai, H\u00e0 N\u1ed9i",
+                "name": "XingCha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8694746,
+                    21.0037252
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "210 Trung K\u00ednh, H\u00e0 N\u1ed9i",
+                "name": "XingCha"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.791277,
+                    21.0216276
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "128 H\u00e0ng Tr\u1ed1ng, H\u00e0 N\u1ed9i",
+                "name": "Chat Time"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8508669,
+                    21.028457
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "169 Quang Trung, H\u00e0 \u0110\u00f4ng",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7716268,
+                    20.9692056
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "11 Thanh Ni\u00ean, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8337729,
+                    21.042996
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "4 Tr\u1ea7n Th\u00e1i T\u00f4ng, H\u00e0 N\u1ed9i ",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8573589,
+                    21.015326
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "137 Ng\u1ecdc H\u1ed3i, H\u00e0 N\u1ed9i  ",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8424225,
+                    20.9589477
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "219C Kh\u00e2m Thi\u00ean, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8316238,
+                    21.01925
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "112 H\u1ed3 T\u00f9ng M\u1eadu, H\u00e0 N\u1ed9i  ",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.776852,
+                    21.036976
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "123 \u0110\u1ed9i C\u1ea5n, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8092824,
+                    21.0377899
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "401 B\u1ea1ch Mai, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8031752,
+                    21.0236124
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "163 Ch\u00f9a L\u00e1ng, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.85252,
+                    21.032208
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "45 C\u1ea7u G\u1ed7, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8503259,
+                    21.032213
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "59 C\u1eeda Nam, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.842468,
+                    21.027815
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "155 Gi\u1ea3ng V\u00f5, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.825633,
+                    21.028244
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "147 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8458952,
+                    20.9972477
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "22 Kh\u01b0\u01a1ng H\u1ea1, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.814251,
+                    20.986004
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "162 Ng\u1ecdc L\u00e2m, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8685868,
+                    21.046046
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "13 L\u00ea \u0110\u1ea1i H\u00e0nh, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.849993,
+                    21.009772
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "491 Kim Ng\u01b0u, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8600039,
+                    20.9991219
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "68 Ph\u00f9ng H\u01b0ng, H\u00e0 \u0110\u00f4ng  ",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7915335,
+                    20.9647329
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "99 X\u00e3 \u0110\u00e0n, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.830645,
+                    21.016982
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "61 Y\u00ean L\u00e3ng, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8151917,
+                    21.0123984
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "192 Nguy\u1ec5n V\u0103n C\u1eeb, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8700649,
+                    21.043503
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "K1 -2A T\u1ea7ng 1 TT-TM Indochina Plaza, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.7802382,
+                    21.0361488
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "226 L\u00f2 \u0110\u00fac, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8581569,
+                    21.010136
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "128 T\u00e2n Mai, H\u00e0 N\u1ed9i",
+                "name": "Feelingtea"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8473169,
+                    20.983627
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "145 Nguy\u1ec5n Ch\u00ed Thanh, H\u00e0 N\u1ed9i",
+                "name": "Tr\u00e0 Ti\u00ean Hu\u1edfng"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8102177,
+                    21.0280327
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
