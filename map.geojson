@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -9,11 +8,11 @@
           10.771799
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Flat White Coffee, Teas and Cakes",
         "Address": "700000, 274 L\u00fd T\u1ef1 Tr\u1ecdng"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -23,11 +22,11 @@
           10.770798
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Language Exchange Coffee House",
         "Address": "399/43/5 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -37,11 +36,11 @@
           10.772637
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Trung Nguyen Caf\u00e9 Legend",
         "Address": "87A B\u00f9i Th\u1ecb Xu\u00e2n"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -51,11 +50,25 @@
           10.765934
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "The Note Coffee _183 Bui Vien",
         "Address": "183 B\u00f9i Vi\u1ec7n"
-      }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.692699,
+          10.768308
+        ]
+      },
+      "properties": {
+        "name": "ABC Bakery & Caf\u00e9",
+        "Address": "223-225 Ph\u1ea1m Ng\u0169 L\u00e3o"
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -65,25 +78,11 @@
           10.7644057
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Enjoy coffee",
         "Address": "102/7 C\u1ed1ng Qu\u1ef3nh"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6907182,
-          10.7675838
-        ]
       },
-      "type": "Feature",
-      "properties": {
-        "name": "The Luke's Cafe",
-        "Address": "315 Ph\u1ea1m Ng\u0169 L\u00e3o"
-      }
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -93,11 +92,25 @@
           10.7704741
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Minhu Coffee",
         "Address": "149/35 Le Thi Rieng street, Ben Thanh Ward, District 1"
-      }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6907182,
+          10.7675838
+        ]
+      },
+      "properties": {
+        "name": "The Luke's Cafe",
+        "Address": "315 Ph\u1ea1m Ng\u0169 L\u00e3o"
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -107,25 +120,11 @@
           10.764867
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "JAPANIT Matcha & Coffee House",
         "Address": "130 \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6811101,
-          10.7710635
-        ]
       },
-      "type": "Feature",
-      "properties": {
-        "name": "The Coffee House - Cao Th\u1eafng",
-        "Address": "86-88 Cao Th\u1eafng"
-      }
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -135,11 +134,25 @@
           10.7728676
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Trung Nguy\u00ean Legend Caf\u00e9",
         "Address": "460 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
-      }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6811101,
+          10.7710635
+        ]
+      },
+      "properties": {
+        "name": "The Coffee House - Cao Th\u1eafng",
+        "Address": "86-88 Cao Th\u1eafng"
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -149,11 +162,11 @@
           10.7714556
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Phuc Long Coffee & Tea Express",
         "Address": "325 L\u00fd T\u1ef1 Tr\u1ecdng"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -163,11 +176,11 @@
           10.7685328
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Mila Coffee",
         "Address": "218 L\u00ea Lai"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -177,403 +190,11 @@
           10.7759498
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Highlands Coffee",
         "Address": "90 C\u00e1ch M\u1ea1ng Th\u00e1ng 8"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6922849,
-          10.7642818
-        ]
       },
-      "type": "Feature",
-      "properties": {
-        "name": "Mylife",
-        "Address": "257 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.694465,
-          10.766593
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "SNOB Coffee",
-        "Address": "147A \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6933548,
-          10.7698773
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Tractor Coffee",
-        "Address": "98 L\u00ea Lai"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6884227,
-          10.7743683
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "The Coffee Bean & Tea Leaf - CMT8",
-        "Address": "60-62 C\u00e1ch M\u1ea1ng Th\u00e1ng 8"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6934641,
-          10.7686444
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Highlands Coffee",
-        "Address": "187 Ph\u1ea1m Ng\u0169 L\u00e3o"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.69013,
-          10.769209
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Purio Coffee",
-        "Address": "166 Nguy\u1ec5n Tr\u00e3i"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6871403,
-          10.7730727
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "The Coffee House - V\u00f5 V\u0103n T\u1ea7n",
-        "Address": "223 V\u00f5 V\u0103n T\u1ea7n"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6882022,
-          10.7662963
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Passio coffee",
-        "Address": "197 Nguy\u1ec5n Tr\u00e3i"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6821404,
-          10.7758852
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Deja Vu Coffee",
-        "Address": "314/2 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6825203,
-          10.7638477
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "The Coffee Bean & Tea Leaf - Nguy\u1ec5n V\u0103n C\u1eeb",
-        "Address": "235 Nguy\u1ec5n V\u0103n C\u1eeb, Nguy\u1ec5n C\u01b0 Trinh, Qu\u1eadn 1"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6931637,
-          10.7634024
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "LACOF",
-        "Address": "133 C\u00f4 B\u1eafc"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6957802,
-          10.7724845
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Tropicland Coffee & Juice Bar",
-        "Address": "58 Tr\u01b0\u01a1ng \u0110\u1ecbnh"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6804721,
-          10.7759542
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Highlands Coffee",
-        "Address": "3 \u0110\u01b0\u1eddng 3/2"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.686572,
-          10.777592
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Darkroom Cafe",
-        "Address": "30/1F Ng\u00f4 Th\u1eddi Nhi\u1ec7m"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6854101,
-          10.7737642
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "The Locks Coffee",
-        "Address": "388 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.695082,
-          10.7680226
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Phu\u0301c Long Coffee & Tea Express",
-        "Address": "157-159 Nguy\u1ec5n Th\u00e1i H\u1ecdc"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6870256,
-          10.7707102
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Caztus Ice Blended",
-        "Address": "153/11A Nguy\u1ec5n Th\u1ecb Minh Khai"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6915071,
-          10.7711796
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "The Coffee House - L\u00ea Th\u1ecb Ri\u00eang",
-        "Address": "47 - 49 L\u00ea Th\u1ecb Ri\u00eang, Ph\u01b0\u1eddng B\u1ebfn Th\u00e0nh, Qu\u1eadn 1"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6801187,
-          10.7784734
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Wayne\u2019s coffee",
-        "Address": "Ph\u01b0\u1eddng 12, District 10, Ho Chi Minh City, Vietnam"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6882686,
-          10.7742766
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "The Coffee Bean & Tea Leaf",
-        "Address": "194 V\u00f5 V\u0103n T\u1ea7n"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.689736,
-          10.7775459
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "The Journal Coffee",
-        "Address": "87 Tr\u01b0\u01a1ng \u0110\u1ecbnh"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.686213,
-          10.7700473
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "SNOB Coffee",
-        "Address": "185 Nguy\u1ec5n Th\u1ecb Minh Khai"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6953597,
-          10.7716401
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Cafe Vy",
-        "Address": "277E L\u00ea Th\u00e1nh T\u00f4n"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6938346,
-          10.771141
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Starbucks New World",
-        "Address": "G\u00f3c \u0111\u01b0\u1eddng Ph\u1ea1m H\u1ed3ng Th\u00e1i giao Nguy\u1ec5n Th\u1ecb Ngh\u0129a New World Hotel, 76 L\u00ea Lai, Ben Nghe Ward Ho Chi Minh Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000 VN, 76 L\u00ea Lai"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.694009,
-          10.76701
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "BAZZAN Coffee",
-        "Address": "173 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.693358,
-          10.768632
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Highlands Coffee - \u0110\u1ec1 Th\u00e1m",
-        "Address": "272 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.692476,
-          10.767774
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Kiss and Ride Coffee",
-        "Address": "241/6 Ph\u1ea1m Ng\u0169 L\u00e3o"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6915171,
-          10.7661356
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "G\u00f3c H\u00e0 N\u1ed9i Coffee & Tea (Little Ha Noi)",
-        "Address": "3/165 B\u00f9i Vi\u1ec7n"
-      }
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -583,11 +204,123 @@
           10.7782582
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "The Coffee House",
         "Address": "130 C\u00e1ch M\u1ea1ng Th\u00e1ng 8"
-      }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6922849,
+          10.7642818
+        ]
+      },
+      "properties": {
+        "name": "Mylife",
+        "Address": "257 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.694465,
+          10.766593
+        ]
+      },
+      "properties": {
+        "name": "SNOB Coffee",
+        "Address": "147A \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6821404,
+          10.7758852
+        ]
+      },
+      "properties": {
+        "name": "Deja Vu Coffee",
+        "Address": "314/2 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6933548,
+          10.7698773
+        ]
+      },
+      "properties": {
+        "name": "Tractor Coffee",
+        "Address": "98 L\u00ea Lai"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6884227,
+          10.7743683
+        ]
+      },
+      "properties": {
+        "name": "The Coffee Bean & Tea Leaf - CMT8",
+        "Address": "60-62 C\u00e1ch M\u1ea1ng Th\u00e1ng 8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6934641,
+          10.7686444
+        ]
+      },
+      "properties": {
+        "name": "Highlands Coffee",
+        "Address": "187 Ph\u1ea1m Ng\u0169 L\u00e3o"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69013,
+          10.769209
+        ]
+      },
+      "properties": {
+        "name": "Purio Coffee",
+        "Address": "166 Nguy\u1ec5n Tr\u00e3i"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6871403,
+          10.7730727
+        ]
+      },
+      "properties": {
+        "name": "The Coffee House - V\u00f5 V\u0103n T\u1ea7n",
+        "Address": "223 V\u00f5 V\u0103n T\u1ea7n"
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -597,25 +330,333 @@
           10.7726574
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Trung Nguyen Caf\u00e9 Legend",
         "Address": "219 L\u00fd T\u1ef1 Tr\u1ecdng"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.6934148,
-          10.7716051
+          106.6882022,
+          10.7662963
         ]
       },
-      "type": "Feature",
       "properties": {
-        "name": "Mr.8 Coffee",
-        "Address": "2 C\u00e1ch M\u1ea1ng Th\u00e1ng 8"
-      }
+        "name": "Passio coffee",
+        "Address": "197 Nguy\u1ec5n Tr\u00e3i"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6825096,
+          10.7696233
+        ]
+      },
+      "properties": {
+        "name": "Shelter Coffee and Tea",
+        "Address": "31 Cao Th\u1eafng ph\u01b0\u1eddng 2 qu\u1eadn 3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6825203,
+          10.7638477
+        ]
+      },
+      "properties": {
+        "name": "The Coffee Bean & Tea Leaf - Nguy\u1ec5n V\u0103n C\u1eeb",
+        "Address": "235 Nguy\u1ec5n V\u0103n C\u1eeb, Nguy\u1ec5n C\u01b0 Trinh, Qu\u1eadn 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6957802,
+          10.7724845
+        ]
+      },
+      "properties": {
+        "name": "Tropicland Coffee & Juice Bar",
+        "Address": "58 Tr\u01b0\u01a1ng \u0110\u1ecbnh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6804721,
+          10.7759542
+        ]
+      },
+      "properties": {
+        "name": "Highlands Coffee",
+        "Address": "3 \u0110\u01b0\u1eddng 3/2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6854101,
+          10.7737642
+        ]
+      },
+      "properties": {
+        "name": "The Locks Coffee",
+        "Address": "388 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.695082,
+          10.7680226
+        ]
+      },
+      "properties": {
+        "name": "Phu\u0301c Long Coffee & Tea Express",
+        "Address": "157-159 Nguy\u1ec5n Th\u00e1i H\u1ecdc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6801187,
+          10.7784734
+        ]
+      },
+      "properties": {
+        "name": "Wayne\u2019s coffee",
+        "Address": "Ph\u01b0\u1eddng 12, District 10, Ho Chi Minh City, Vietnam"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6915071,
+          10.7711796
+        ]
+      },
+      "properties": {
+        "name": "The Coffee House - L\u00ea Th\u1ecb Ri\u00eang",
+        "Address": "47 - 49 L\u00ea Th\u1ecb Ri\u00eang, Ph\u01b0\u1eddng B\u1ebfn Th\u00e0nh, Qu\u1eadn 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6882686,
+          10.7742766
+        ]
+      },
+      "properties": {
+        "name": "The Coffee Bean & Tea Leaf",
+        "Address": "194 V\u00f5 V\u0103n T\u1ea7n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.686213,
+          10.7700473
+        ]
+      },
+      "properties": {
+        "name": "SNOB Coffee",
+        "Address": "185 Nguy\u1ec5n Th\u1ecb Minh Khai"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6953597,
+          10.7716401
+        ]
+      },
+      "properties": {
+        "name": "Cafe Vy",
+        "Address": "277E L\u00ea Th\u00e1nh T\u00f4n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.694009,
+          10.76701
+        ]
+      },
+      "properties": {
+        "name": "BAZZAN Coffee",
+        "Address": "173 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.692476,
+          10.767774
+        ]
+      },
+      "properties": {
+        "name": "Kiss and Ride Coffee",
+        "Address": "241/6 Ph\u1ea1m Ng\u0169 L\u00e3o"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.693358,
+          10.768632
+        ]
+      },
+      "properties": {
+        "name": "Highlands Coffee - \u0110\u1ec1 Th\u00e1m",
+        "Address": "272 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6938346,
+          10.771141
+        ]
+      },
+      "properties": {
+        "name": "Starbucks New World",
+        "Address": "G\u00f3c \u0111\u01b0\u1eddng Ph\u1ea1m H\u1ed3ng Th\u00e1i giao Nguy\u1ec5n Th\u1ecb Ngh\u0129a New World Hotel, 76 L\u00ea Lai, Ben Nghe Ward Ho Chi Minh Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000 VN, 76 L\u00ea Lai"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6839033,
+          10.7687226
+        ]
+      },
+      "properties": {
+        "name": "Hebe Tea & Coffee",
+        "Address": "4 Cao Th\u1eafng"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.690047,
+          10.771255
+        ]
+      },
+      "properties": {
+        "name": "E-coffee",
+        "Address": "35 B\u00f9i Th\u1ecb Xu\u00e2n 1\u533a"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6931637,
+          10.7634024
+        ]
+      },
+      "properties": {
+        "name": "LACOF",
+        "Address": "133 C\u00f4 B\u1eafc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6870256,
+          10.7707102
+        ]
+      },
+      "properties": {
+        "name": "Caztus Ice Blended",
+        "Address": "153/11A Nguy\u1ec5n Th\u1ecb Minh Khai"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.689736,
+          10.7775459
+        ]
+      },
+      "properties": {
+        "name": "The Journal Coffee",
+        "Address": "87 Tr\u01b0\u01a1ng \u0110\u1ecbnh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.689799,
+          10.765531
+        ]
+      },
+      "properties": {
+        "name": "HD Gia Lai Coffee",
+        "Address": "119 C\u1ed1ng Qu\u1ef3nh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6915066,
+          10.7711681
+        ]
+      },
+      "properties": {
+        "name": "The Coffee House- L\u00ea Th\u1ecb Ri\u00eang",
+        "Address": "47 L\u00ea Th\u1ecb Ri\u00eang"
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -625,11 +666,11 @@
           10.7700544
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "La Mode Coffee Shop",
         "Address": "118 Bui Thi Xuan Street, Ben Thanh Ward, District 1, Ho Chi Minh City"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -639,11 +680,11 @@
           10.778506
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Fugashin Coffee",
         "Address": "15 V\u00f5 V\u0103n T\u1ea7n"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -653,11 +694,11 @@
           10.7691711
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "The Coffee House - Ph\u1ea1m Ng\u0169 L\u00e3o",
         "Address": "161 Ph\u1ea1m Ng\u0169 L\u00e3o"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -667,11 +708,11 @@
           10.7698446
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "8ight Coffee",
         "Address": "8 BIS Nguyen Van Trang"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -681,11 +722,11 @@
           10.7807982
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "The Coffee House - Ng\u00f4 Th\u1eddi Nhi\u1ec7m",
         "Address": "6A Ng\u00f4 Th\u1eddi Nhi\u1ec7m"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -695,11 +736,11 @@
           10.7724071
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "The Root Coffee",
         "Address": "382/22 Nguy\u1ec5n Th\u1ecb Minh Khai"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -709,11 +750,11 @@
           10.7761514
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Heart Coffee",
         "Address": "Minh Tinh, 115 V\u00f5 V\u0103n T\u1ea7n"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -723,25 +764,11 @@
           10.7627325
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Passio Coffee",
         "Address": "179B Nguy\u1ec5n C\u01b0 Trinh"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6890683,
-          10.7782464
-        ]
       },
-      "type": "Feature",
-      "properties": {
-        "name": "The Coffee Factory",
-        "Address": "107A Tr\u01b0\u01a1ng \u0110\u1ecbnh"
-      }
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -751,11 +778,11 @@
           10.7662288
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Trung Nguy\u00ean Legend Cafe",
         "Address": "1 \u0110\u1ed7 Quang \u0110\u1ea9u"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -765,11 +792,25 @@
           10.7698057
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "3Some Coffee",
         "Address": "150/8B Nguy\u1ec5n Tr\u00e3i"
-      }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6890683,
+          10.7782464
+        ]
+      },
+      "properties": {
+        "name": "The Coffee Factory",
+        "Address": "107A Tr\u01b0\u01a1ng \u0110\u1ecbnh"
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -779,11 +820,11 @@
           10.7713864
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "StepUp Coffee",
         "Address": "32 Ph\u1ea1m H\u1ed3ng Th\u00e1i"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -793,53 +834,12 @@
           10.7783976
         ]
       },
-      "type": "Feature",
       "properties": {
         "name": "Highlands Coffee",
         "Address": "285 C\u00e1ch M\u1ea1ng Th\u00e1ng 8"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6914859,
-          10.7713196
-        ]
       },
-      "type": "Feature",
-      "properties": {
-        "name": "Mint Cafe Saigon",
-        "Address": "74 L\u00ea Th\u1ecb Ri\u00eang"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6955569,
-          10.7693849
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "Leo Coffee & Tea",
-        "Address": "111 Ph\u1ea1m Ng\u0169 L\u00e3o"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.679701,
-          10.7613431
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "name": "ARA Coffee",
-        "Address": "240 Tr\u1ea7n B\u00ecnh Tr\u1ecdng"
-      }
+      "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
