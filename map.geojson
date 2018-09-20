@@ -1,1685 +1,2885 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "700000, 274 L\u00fd T\u1ef1 Tr\u1ecdng",
-        "name": "Flat White Coffee, Teas and Cakes"
-      },
-      "geometry": {
-        "coordinates": [
-          10.771799,
-          106.6936636
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "399/43/5 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u",
-        "name": "Language Exchange Coffee House"
-      },
-      "geometry": {
-        "coordinates": [
-          10.770798,
-          106.684169
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "219 L\u00fd T\u1ef1 Tr\u1ecdng",
-        "name": "Trung Nguyen Caf\u00e9 Legend"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7726574,
-          106.6954464
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "325 L\u00fd T\u1ef1 Tr\u1ecdng",
-        "name": "Phuc Long Coffee & Tea Express"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7714556,
-          106.6936821
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "183 B\u00f9i Vi\u1ec7n",
-        "name": "The Note Coffee _183 Bui Vien"
-      },
-      "geometry": {
-        "coordinates": [
-          10.765934,
-          106.691126
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "102/7 C\u1ed1ng Qu\u1ef3nh",
-        "name": "Enjoy coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7644057,
-          106.6909237
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "149/35 Le Thi Rieng street, Ben Thanh Ward, District 1",
-        "name": "Minhu Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7704741,
-          106.6896701
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "86-88 Cao Th\u1eafng",
-        "name": "The Coffee House - Cao Th\u1eafng"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7710635,
-          106.6811101
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "87A B\u00f9i Th\u1ecb Xu\u00e2n",
-        "name": "Trung Nguyen Caf\u00e9 Legend"
-      },
-      "geometry": {
-        "coordinates": [
-          10.772637,
-          106.6910461
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "460 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
-        "name": "Trung Nguy\u00ean Legend Caf\u00e9"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7728676,
-          106.6790801
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "147A \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
-        "name": "SNOB Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.766593,
-          106.694465
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "90 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "Highlands Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7759498,
-          106.6854372
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "7 Nguy\u1ec5n Tr\u00e3i",
-        "name": "TOGO Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7712221,
-          106.6929602
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "257 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
-        "name": "Mylife"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7642818,
-          106.6922849
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "315 Ph\u1ea1m Ng\u0169 L\u00e3o",
-        "name": "The Luke's Cafe"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7675838,
-          106.6907182
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "130 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "The Coffee House"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7782582,
-          106.681134
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "60-62 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "The Coffee Bean & Tea Leaf - CMT8"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7743683,
-          106.6884227
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "187 Ph\u1ea1m Ng\u0169 L\u00e3o",
-        "name": "Highlands Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7686444,
-          106.6934641
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "166 Nguy\u1ec5n Tr\u00e3i",
-        "name": "Purio Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.769209,
-          106.69013
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "130 \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
-        "name": "JAPANIT Matcha & Coffee House"
-      },
-      "geometry": {
-        "coordinates": [
-          10.764867,
-          106.6924929
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "218 L\u00ea Lai",
-        "name": "Mila Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7685328,
-          106.6899624
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "98 L\u00ea Lai",
-        "name": "Tractor Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7698773,
-          106.6933548
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "55 Nguy\u1ec5n S\u01a1n H\u00e0",
-        "name": "Analog Cafe"
-      },
-      "geometry": {
-        "coordinates": [
-          10.769883,
-          106.6846273
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "223 V\u00f5 V\u0103n T\u1ea7n",
-        "name": "The Coffee House - V\u00f5 V\u0103n T\u1ea7n"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7730727,
-          106.6871403
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "197 Nguy\u1ec5n Tr\u00e3i",
-        "name": "Passio coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7662963,
-          106.6882022
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "4 Cao Th\u1eafng",
-        "name": "Hebe Tea & Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7687226,
-          106.6839033
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "314/2 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
-        "name": "Deja Vu Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7758852,
-          106.6821404
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "235 Nguy\u1ec5n V\u0103n C\u1eeb, Nguy\u1ec5n C\u01b0 Trinh, Qu\u1eadn 1",
-        "name": "The Coffee Bean & Tea Leaf - Nguy\u1ec5n V\u0103n C\u1eeb"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7638477,
-          106.6825203
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "133 C\u00f4 B\u1eafc",
-        "name": "LACOF"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7634024,
-          106.6931637
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "58 Tr\u01b0\u01a1ng \u0110\u1ecbnh",
-        "name": "Tropicland Coffee & Juice Bar"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7724845,
-          106.6957802
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "3 \u0110\u01b0\u1eddng 3/2",
-        "name": "Highlands Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7759542,
-          106.6804721
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "30/1F Ng\u00f4 Th\u1eddi Nhi\u1ec7m",
-        "name": "Darkroom Cafe"
-      },
-      "geometry": {
-        "coordinates": [
-          10.777592,
-          106.686572
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "388 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u",
-        "name": "The Locks Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7737642,
-          106.6854101
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "157-159 Nguy\u1ec5n Th\u00e1i H\u1ecdc",
-        "name": "Phu\u0301c Long Coffee & Tea Express"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7680226,
-          106.695082
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "47 - 49 L\u00ea Th\u1ecb Ri\u00eang, Ph\u01b0\u1eddng B\u1ebfn Th\u00e0nh, Qu\u1eadn 1",
-        "name": "The Coffee House - L\u00ea Th\u1ecb Ri\u00eang"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7711796,
-          106.6915071
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "Ph\u01b0\u1eddng 12, District 10, Ho Chi Minh City, Vietnam",
-        "name": "Wayne\u2019s coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7784734,
-          106.6801187
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "194 V\u00f5 V\u0103n T\u1ea7n",
-        "name": "The Coffee Bean & Tea Leaf"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7742766,
-          106.6882686
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "87 Tr\u01b0\u01a1ng \u0110\u1ecbnh",
-        "name": "The Journal Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7775459,
-          106.689736
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "185 Nguy\u1ec5n Th\u1ecb Minh Khai",
-        "name": "SNOB Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7700473,
-          106.686213
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "277E L\u00ea Th\u00e1nh T\u00f4n",
-        "name": "Cafe Vy"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7716401,
-          106.6953597
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "G\u00f3c \u0111\u01b0\u1eddng Ph\u1ea1m H\u1ed3ng Th\u00e1i giao Nguy\u1ec5n Th\u1ecb Ngh\u0129a New World Hotel, 76 L\u00ea Lai, Ben Nghe Ward Ho Chi Minh Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000 VN, 76 L\u00ea Lai",
-        "name": "Starbucks New World"
-      },
-      "geometry": {
-        "coordinates": [
-          10.771141,
-          106.6938346
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "173 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m",
-        "name": "BAZZAN Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.76701,
-          106.694009
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "272 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m",
-        "name": "Highlands Coffee - \u0110\u1ec1 Th\u00e1m"
-      },
-      "geometry": {
-        "coordinates": [
-          10.768632,
-          106.693358
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "241/6 Ph\u1ea1m Ng\u0169 L\u00e3o",
-        "name": "Kiss and Ride Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.767774,
-          106.692476
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "47 L\u00ea Th\u1ecb Ri\u00eang",
-        "name": "The Coffee House- L\u00ea Th\u1ecb Ri\u00eang"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7711681,
-          106.6915066
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "118 Bui Thi Xuan Street, Ben Thanh Ward, District 1, Ho Chi Minh City",
-        "name": "La Mode Coffee Shop"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7700544,
-          106.6886079
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "2 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "Mr.8 Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7716051,
-          106.6934148
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "15 V\u00f5 V\u0103n T\u1ea7n",
-        "name": "Fugashin Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.778506,
-          106.6923831
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "161 Ph\u1ea1m Ng\u0169 L\u00e3o",
-        "name": "The Coffee House - Ph\u1ea1m Ng\u0169 L\u00e3o"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7691711,
-          106.694607
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "8 BIS Nguyen Van Trang",
-        "name": "8ight Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7698446,
-          106.6925531
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "6A Ng\u00f4 Th\u1eddi Nhi\u1ec7m",
-        "name": "The Coffee House - Ng\u00f4 Th\u1eddi Nhi\u1ec7m"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7807982,
-          106.6900591
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "382/22 Nguy\u1ec5n Th\u1ecb Minh Khai",
-        "name": "The Root Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7724071,
-          106.6874392
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "Minh Tinh, 115 V\u00f5 V\u0103n T\u1ea7n",
-        "name": "Heart Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7761514,
-          106.6900181
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "179B Nguy\u1ec5n C\u01b0 Trinh",
-        "name": "Passio Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7627325,
-          106.6874989
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "29 \u0110\u01b0\u1eddng H\u00f9ng V\u01b0\u01a1ng",
-        "name": "3T Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7638115,
-          106.6789912
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "1 \u0110\u1ed7 Quang \u0110\u1ea9u",
-        "name": "Trung Nguy\u00ean Legend Cafe"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7662288,
-          106.691273
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "150/8B Nguy\u1ec5n Tr\u00e3i",
-        "name": "3Some Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7698057,
-          106.6903283
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "107A Tr\u01b0\u01a1ng \u0110\u1ecbnh",
-        "name": "The Coffee Factory"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7782464,
-          106.6890683
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "32 Ph\u1ea1m H\u1ed3ng Th\u00e1i",
-        "name": "StepUp Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7713864,
-          106.6958375
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "285 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "Highlands Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          10.7783976,
-          106.6800902
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "700000, 274 L\u00fd T\u1ef1 Tr\u1ecdng",
-        "name": "Flat White Coffee, Teas and Cakes"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6936636,
-          10.771799
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "399/43/5 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u",
-        "name": "Language Exchange Coffee House"
-      },
-      "geometry": {
-        "coordinates": [
-          106.684169,
-          10.770798
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "219 L\u00fd T\u1ef1 Tr\u1ecdng",
-        "name": "Trung Nguyen Caf\u00e9 Legend"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6954464,
-          10.7726574
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "325 L\u00fd T\u1ef1 Tr\u1ecdng",
-        "name": "Phuc Long Coffee & Tea Express"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6936821,
-          10.7714556
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "183 B\u00f9i Vi\u1ec7n",
-        "name": "The Note Coffee _183 Bui Vien"
-      },
-      "geometry": {
-        "coordinates": [
-          106.691126,
-          10.765934
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "102/7 C\u1ed1ng Qu\u1ef3nh",
-        "name": "Enjoy coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6909237,
-          10.7644057
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "149/35 Le Thi Rieng street, Ben Thanh Ward, District 1",
-        "name": "Minhu Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6896701,
-          10.7704741
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "86-88 Cao Th\u1eafng",
-        "name": "The Coffee House - Cao Th\u1eafng"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6811101,
-          10.7710635
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "87A B\u00f9i Th\u1ecb Xu\u00e2n",
-        "name": "Trung Nguyen Caf\u00e9 Legend"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6910461,
-          10.772637
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "460 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
-        "name": "Trung Nguy\u00ean Legend Caf\u00e9"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6790801,
-          10.7728676
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "147A \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
-        "name": "SNOB Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.694465,
-          10.766593
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "90 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "Highlands Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6854372,
-          10.7759498
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "7 Nguy\u1ec5n Tr\u00e3i",
-        "name": "TOGO Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6929602,
-          10.7712221
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "257 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
-        "name": "Mylife"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6922849,
-          10.7642818
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "315 Ph\u1ea1m Ng\u0169 L\u00e3o",
-        "name": "The Luke's Cafe"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6907182,
-          10.7675838
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "130 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "The Coffee House"
-      },
-      "geometry": {
-        "coordinates": [
-          106.681134,
-          10.7782582
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "60-62 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "The Coffee Bean & Tea Leaf - CMT8"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6884227,
-          10.7743683
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "187 Ph\u1ea1m Ng\u0169 L\u00e3o",
-        "name": "Highlands Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6934641,
-          10.7686444
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "166 Nguy\u1ec5n Tr\u00e3i",
-        "name": "Purio Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.69013,
-          10.769209
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "130 \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
-        "name": "JAPANIT Matcha & Coffee House"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6924929,
-          10.764867
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "218 L\u00ea Lai",
-        "name": "Mila Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6899624,
-          10.7685328
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "98 L\u00ea Lai",
-        "name": "Tractor Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6933548,
-          10.7698773
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "55 Nguy\u1ec5n S\u01a1n H\u00e0",
-        "name": "Analog Cafe"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6846273,
-          10.769883
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "223 V\u00f5 V\u0103n T\u1ea7n",
-        "name": "The Coffee House - V\u00f5 V\u0103n T\u1ea7n"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6871403,
-          10.7730727
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "197 Nguy\u1ec5n Tr\u00e3i",
-        "name": "Passio coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6882022,
-          10.7662963
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "4 Cao Th\u1eafng",
-        "name": "Hebe Tea & Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6839033,
-          10.7687226
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "314/2 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
-        "name": "Deja Vu Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6821404,
-          10.7758852
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "235 Nguy\u1ec5n V\u0103n C\u1eeb, Nguy\u1ec5n C\u01b0 Trinh, Qu\u1eadn 1",
-        "name": "The Coffee Bean & Tea Leaf - Nguy\u1ec5n V\u0103n C\u1eeb"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6825203,
-          10.7638477
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "133 C\u00f4 B\u1eafc",
-        "name": "LACOF"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6931637,
-          10.7634024
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "58 Tr\u01b0\u01a1ng \u0110\u1ecbnh",
-        "name": "Tropicland Coffee & Juice Bar"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6957802,
-          10.7724845
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "3 \u0110\u01b0\u1eddng 3/2",
-        "name": "Highlands Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6804721,
-          10.7759542
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "30/1F Ng\u00f4 Th\u1eddi Nhi\u1ec7m",
-        "name": "Darkroom Cafe"
-      },
-      "geometry": {
-        "coordinates": [
-          106.686572,
-          10.777592
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "388 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u",
-        "name": "The Locks Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6854101,
-          10.7737642
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "157-159 Nguy\u1ec5n Th\u00e1i H\u1ecdc",
-        "name": "Phu\u0301c Long Coffee & Tea Express"
-      },
-      "geometry": {
-        "coordinates": [
-          106.695082,
-          10.7680226
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "47 - 49 L\u00ea Th\u1ecb Ri\u00eang, Ph\u01b0\u1eddng B\u1ebfn Th\u00e0nh, Qu\u1eadn 1",
-        "name": "The Coffee House - L\u00ea Th\u1ecb Ri\u00eang"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6915071,
-          10.7711796
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "Ph\u01b0\u1eddng 12, District 10, Ho Chi Minh City, Vietnam",
-        "name": "Wayne\u2019s coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6801187,
-          10.7784734
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "194 V\u00f5 V\u0103n T\u1ea7n",
-        "name": "The Coffee Bean & Tea Leaf"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6882686,
-          10.7742766
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "87 Tr\u01b0\u01a1ng \u0110\u1ecbnh",
-        "name": "The Journal Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.689736,
-          10.7775459
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "185 Nguy\u1ec5n Th\u1ecb Minh Khai",
-        "name": "SNOB Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.686213,
-          10.7700473
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "277E L\u00ea Th\u00e1nh T\u00f4n",
-        "name": "Cafe Vy"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6953597,
-          10.7716401
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "G\u00f3c \u0111\u01b0\u1eddng Ph\u1ea1m H\u1ed3ng Th\u00e1i giao Nguy\u1ec5n Th\u1ecb Ngh\u0129a New World Hotel, 76 L\u00ea Lai, Ben Nghe Ward Ho Chi Minh Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000 VN, 76 L\u00ea Lai",
-        "name": "Starbucks New World"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6938346,
-          10.771141
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "173 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m",
-        "name": "BAZZAN Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.694009,
-          10.76701
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "272 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m",
-        "name": "Highlands Coffee - \u0110\u1ec1 Th\u00e1m"
-      },
-      "geometry": {
-        "coordinates": [
-          106.693358,
-          10.768632
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "241/6 Ph\u1ea1m Ng\u0169 L\u00e3o",
-        "name": "Kiss and Ride Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.692476,
-          10.767774
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "47 L\u00ea Th\u1ecb Ri\u00eang",
-        "name": "The Coffee House- L\u00ea Th\u1ecb Ri\u00eang"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6915066,
-          10.7711681
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "118 Bui Thi Xuan Street, Ben Thanh Ward, District 1, Ho Chi Minh City",
-        "name": "La Mode Coffee Shop"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6886079,
-          10.7700544
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "2 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "Mr.8 Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6934148,
-          10.7716051
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "15 V\u00f5 V\u0103n T\u1ea7n",
-        "name": "Fugashin Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6923831,
-          10.778506
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "161 Ph\u1ea1m Ng\u0169 L\u00e3o",
-        "name": "The Coffee House - Ph\u1ea1m Ng\u0169 L\u00e3o"
-      },
-      "geometry": {
-        "coordinates": [
-          106.694607,
-          10.7691711
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "8 BIS Nguyen Van Trang",
-        "name": "8ight Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6925531,
-          10.7698446
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "6A Ng\u00f4 Th\u1eddi Nhi\u1ec7m",
-        "name": "The Coffee House - Ng\u00f4 Th\u1eddi Nhi\u1ec7m"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6900591,
-          10.7807982
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "382/22 Nguy\u1ec5n Th\u1ecb Minh Khai",
-        "name": "The Root Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6874392,
-          10.7724071
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "Minh Tinh, 115 V\u00f5 V\u0103n T\u1ea7n",
-        "name": "Heart Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6900181,
-          10.7761514
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "179B Nguy\u1ec5n C\u01b0 Trinh",
-        "name": "Passio Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6874989,
-          10.7627325
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "29 \u0110\u01b0\u1eddng H\u00f9ng V\u01b0\u01a1ng",
-        "name": "3T Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6789912,
-          10.7638115
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "1 \u0110\u1ed7 Quang \u0110\u1ea9u",
-        "name": "Trung Nguy\u00ean Legend Cafe"
-      },
-      "geometry": {
-        "coordinates": [
-          106.691273,
-          10.7662288
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "150/8B Nguy\u1ec5n Tr\u00e3i",
-        "name": "3Some Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6903283,
-          10.7698057
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "107A Tr\u01b0\u01a1ng \u0110\u1ecbnh",
-        "name": "The Coffee Factory"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6890683,
-          10.7782464
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "32 Ph\u1ea1m H\u1ed3ng Th\u00e1i",
-        "name": "StepUp Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6958375,
-          10.7713864
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "285 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
-        "name": "Highlands Coffee"
-      },
-      "geometry": {
-        "coordinates": [
-          106.6800902,
-          10.7783976
-        ],
-        "type": "Point"
-      }
-    }
-  ]
-}
+[
+  {
+    "name": "Flat White Coffee, Teas and Cakes",
+    "photos": [
+      {
+        "width": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109388205157012614888/photos\">H\u01afNG TR\u1ecaNH</a>"
+        ],
+        "photo_reference": "CmRaAAAA8f3U0S7dnoNzItiXBMjf9M0p6_LHNq_gPi8I3o9l3cOkpjehtWy3kkJbyQ-goUJM3Z6wDgENEin85DELhWcO9XLqQHNphn2lAKM3-_akag-8SErbdZR1xNYiGaKFgLdBEhDezavGtELOYwZy3ttlYebKGhTlIhNow1rGUOUwR9FZLNvMa0_9wg",
+        "height": 720
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "700000, 274 L\u00fd T\u1ef1 Tr\u1ecdng",
+    "place_id": "ChIJvaa7rBAvdTERkmf7z3cZYWs",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "c3930523da26e29a13a6f6f47b43f2610e7fe555",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6923589201073,
+          "lat": 10.77038207010728
+        },
+        "northeast": {
+          "lng": 106.6950585798927,
+          "lat": 10.77308172989272
+        }
+      },
+      "location": {
+        "lng": 106.6936636,
+        "lat": 10.771799
+      }
+    },
+    "reference": "ChIJvaa7rBAvdTERkmf7z3cZYWs",
+    "plus_code": {
+      "global_code": "7P28QMCV+PF",
+      "compound_code": "QMCV+PF B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.5,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Language Exchange Coffee House",
+    "photos": [
+      {
+        "width": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116848694103772993046/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAgadJlUbrxOaLuBxSKqJzTOQefLKjz20n-vUtZ2f9ykgsdVQRLZxjcujyi2dOYwqfMifCzwpoRwuJoqoOWBTHIQBovSRfOokfYtq-CC1h8BPNKHSAaVjY4s7xGjXMfD_fEhAxf8ABFOoNc4HYB1zaJpevGhSJMNkwsJCdsLh11b_Op_qEbMb1Dw",
+        "height": 693
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "399/43/5 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u",
+    "place_id": "ChIJjZDM1SovdTERgh4WlGIT4mo",
+    "types": [
+      "cafe",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "6366aebd318c61d5e75b4e1e29416bcad7c66e78",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6825180201073,
+          "lat": 10.76984322010728
+        },
+        "northeast": {
+          "lng": 106.6852176798927,
+          "lat": 10.77254287989272
+        }
+      },
+      "location": {
+        "lng": 106.684169,
+        "lat": 10.770798
+      }
+    },
+    "reference": "ChIJjZDM1SovdTERgh4WlGIT4mo",
+    "plus_code": {
+      "global_code": "7P28QMCM+8M",
+      "compound_code": "QMCM+8M ph\u01b0\u1eddng 5, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Trung Nguyen Caf\u00e9 Legend",
+    "photos": [
+      {
+        "width": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117434992922058517232/photos\">Trung Nguy\u00ean Coffee</a>"
+        ],
+        "photo_reference": "CmRaAAAA2V1iR0SvNnnLiO537BEwA97WmjpOCEWh6UC41CGq47ZAieLZCApGp93uZuBeQl4DisWf8RUcqEkRhpRAbeysAVaoWEak56U3vLY09GX76_nvv9eoICKapq49QkzhrqgaEhCBvDVyFBc17Ozu8Bq6SwiaGhT9MiJ_06l0WDhdqrgWYgNKR7odmw",
+        "height": 1662
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "219 L\u00fd T\u1ef1 Tr\u1ecdng",
+    "place_id": "ChIJV4j2tT4vdTER3tuDPboA7p8",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "04ccebb3ea908ced3845fd4c7197e5a865e95159",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6940924201073,
+          "lat": 10.77134932010728
+        },
+        "northeast": {
+          "lng": 106.6967920798927,
+          "lat": 10.77404897989272
+        }
+      },
+      "location": {
+        "lng": 106.6954464,
+        "lat": 10.7726574
+      }
+    },
+    "reference": "ChIJV4j2tT4vdTER3tuDPboA7p8",
+    "plus_code": {
+      "global_code": "7P28QMFW+35",
+      "compound_code": "QMFW+35 B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Phuc Long Coffee & Tea Express",
+    "photos": [
+      {
+        "width": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106824872743809080726/photos\">Yew Lee Tan</a>"
+        ],
+        "photo_reference": "CmRaAAAA64LFM9nbZjRFnzMKPvSZA8GEAiJYT4vOxY3EWKjfCTRl3mvKhovg65A1zsxT9WziRU0SgQ-9RUZ0hCJufBIqSOeXqw3P8Pjg0oAMtq0Uq7lXFVhI1zSXy61HFA4BgwAkEhAzuKJlgVeRNQXEQlRlsoIEGhTkZhGQ5PYc4nudcGTyCbOgYh1-3g",
+        "height": 3120
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "325 L\u00fd T\u1ef1 Tr\u1ecdng",
+    "place_id": "ChIJra-2JjwvdTERHVnRUtQpv-4",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "2ad937745b813bff8946eac096812c97f8391dc7",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6923054201073,
+          "lat": 10.77006992010728
+        },
+        "northeast": {
+          "lng": 106.6950050798927,
+          "lat": 10.77276957989272
+        }
+      },
+      "location": {
+        "lng": 106.6936821,
+        "lat": 10.7714556
+      }
+    },
+    "reference": "ChIJra-2JjwvdTERHVnRUtQpv-4",
+    "plus_code": {
+      "global_code": "7P28QMCV+HF",
+      "compound_code": "QMCV+HF B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Note Coffee _183 Bui Vien",
+    "photos": [
+      {
+        "width": 5184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115060981593918422294/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAaKW0ljGlboYJ1d7ht7GUNTEKzqpESpcrBxYQteOKVVHvM9w5lugzQgxgTs4Pfbj_oUGV6oPb6w3reWvz3E4z8QlFKckcxRgUZYJi3g6Lxi8nbiSh-HOLxm9ujW7EbMhCEhAhPQrx3TT8Lf8HhHcmMle9GhSjA8Ck7bt9_7W1mX5iULJmgQqdqQ",
+        "height": 3456
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "183 B\u00f9i Vi\u1ec7n",
+    "place_id": "ChIJQRkWTRYvdTERpHPQ0rNkQzI",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "cf0c596eebc7c152ac00fbee8d704a7e8cfc63e2",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6897512201073,
+          "lat": 10.76461427010728
+        },
+        "northeast": {
+          "lng": 106.6924508798927,
+          "lat": 10.76731392989272
+        }
+      },
+      "location": {
+        "lng": 106.691126,
+        "lat": 10.765934
+      }
+    },
+    "reference": "ChIJQRkWTRYvdTERpHPQ0rNkQzI",
+    "plus_code": {
+      "global_code": "7P28QM8R+9F",
+      "compound_code": "QM8R+9F Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Enjoy coffee",
+    "photos": [
+      {
+        "width": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108969151880375054117/photos\">Huy Nh\u1ea5t</a>"
+        ],
+        "photo_reference": "CmRaAAAAB2Ozv1etiSHCVbQWuoRaC_fT1c7GWldKrblJqIIJsgQFy5xcVtomazQydOz5qBye3a2cI6exc3sOPevvOcHKoXEni4TdS9zW2YpQ-JIGxJHn34G0vyQ6rWzTLIYKhhj6EhCmSn6_iyLn2mPYLhV_rLoNGhQinS-CkPqURvOHS3mw1QDVp04Bxg",
+        "height": 2250
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "102/7 C\u1ed1ng Qu\u1ef3nh",
+    "place_id": "ChIJ8wcpVBYvdTERXGKBErUx01Q",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "a2001c509857b12afc469a48c22f66e67807d890",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6895738701073,
+          "lat": 10.76305587010728
+        },
+        "northeast": {
+          "lng": 106.6922735298927,
+          "lat": 10.76575552989272
+        }
+      },
+      "location": {
+        "lng": 106.6909237,
+        "lat": 10.7644057
+      }
+    },
+    "reference": "ChIJ8wcpVBYvdTERXGKBErUx01Q",
+    "plus_code": {
+      "global_code": "7P28QM7R+Q9",
+      "compound_code": "QM7R+Q9 Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Minhu Coffee",
+    "photos": [
+      {
+        "width": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108631159005710384799/photos\">Samuel Parker</a>"
+        ],
+        "photo_reference": "CmRaAAAAsK0NmPt1fbAriH07O6e1hyHNRb8BuXkZZjokDXsAb4RvgUejPG2AToH5ZMv7_hBgPp5Oh36SubyI23K7XOPb2gVSDSrrbwarOcJ73-oN_mRcvmbHhLAvtTmBRy2WLR1XEhCQZBDJZr0AXoVFx3oqvErVGhTIqsY0XMrxxuJgAj5ZUE3VETKsOg",
+        "height": 720
+      }
+    ],
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "scope": "GOOGLE",
+    "vicinity": "149/35 Le Thi Rieng street, Ben Thanh Ward, District 1",
+    "place_id": "ChIJlw8MHz0vdTERun5jlznloTI",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "516aae8b0c4e9eb0d084afff27425d916e91b4ba",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6883202701073,
+          "lat": 10.76912427010728
+        },
+        "northeast": {
+          "lng": 106.6910199298927,
+          "lat": 10.77182392989272
+        }
+      },
+      "location": {
+        "lng": 106.6896701,
+        "lat": 10.7704741
+      }
+    },
+    "reference": "ChIJlw8MHz0vdTERun5jlznloTI",
+    "plus_code": {
+      "global_code": "7P28QMCQ+5V",
+      "compound_code": "QMCQ+5V B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.7
+  },
+  {
+    "name": "The Coffee House - Cao Th\u1eafng",
+    "photos": [
+      {
+        "width": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107091858102942158003/photos\">Tran Duc Tai</a>"
+        ],
+        "photo_reference": "CmRaAAAAmj9bLxS56xfCh1VzfD51oTJVX2eHmN8BZ1Mgurx_5Gr9KCd89cBkGjHeAfs7wS-aXtBhARCRVpEgNBEQpd3ERjNCABJWNQCdykmLeJmBuk74F1yFgMO43mfqshEMBDfxEhBxpFvADXo4QygQ9iQxgbGAGhTXtMpwsKGSVnAFTk2RUMO-yq7AKA",
+        "height": 3120
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "86-88 Cao Th\u1eafng",
+    "place_id": "ChIJz1DgnSEvdTER39rdX1SQ8NQ",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "41b57d7c50e486f2aacf1c74ae057e101c973fc2",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6797225701073,
+          "lat": 10.76967312010728
+        },
+        "northeast": {
+          "lng": 106.6824222298927,
+          "lat": 10.77237277989272
+        }
+      },
+      "location": {
+        "lng": 106.6811101,
+        "lat": 10.7710635
+      }
+    },
+    "reference": "ChIJz1DgnSEvdTER39rdX1SQ8NQ",
+    "plus_code": {
+      "global_code": "7P28QMCJ+CC",
+      "compound_code": "QMCJ+CC ph\u01b0\u1eddng 4, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Trung Nguyen Caf\u00e9 Legend",
+    "photos": [
+      {
+        "width": 2436,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110530951646741007013/photos\">Paparazziii Pham</a>"
+        ],
+        "photo_reference": "CmRaAAAA0sZnOM3v1f4v02IrECSZNCgWPBqD_1ezOcdG62Ww7rGQGLLCpVB-9qmcYfQEhP9NR1b-O9e8wfYvGbGTJh3XgYhi1oQomUSMtT9fvLoNSr8_n82e7oi663_icQYrFo85EhD8JGtq3MdFr7MXDrXBRWcqGhS4lHlD9Jo9ExSUSndU3ZV2JHd4Mw",
+        "height": 600
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "87A B\u00f9i Th\u1ecb Xu\u00e2n",
+    "place_id": "ChIJGy6KLiMpdTERMleqVC0nY2M",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "7c4fd3f795ab3a0cb48608ccbc70a1ec49c21ea4",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6897263201073,
+          "lat": 10.77122182010728
+        },
+        "northeast": {
+          "lng": 106.6924259798927,
+          "lat": 10.77392147989272
+        }
+      },
+      "location": {
+        "lng": 106.6910461,
+        "lat": 10.772637
+      }
+    },
+    "reference": "ChIJGy6KLiMpdTERMleqVC0nY2M",
+    "plus_code": {
+      "global_code": "7P28QMFR+3C",
+      "compound_code": "QMFR+3C B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Trung Nguy\u00ean Legend Caf\u00e9",
+    "photos": [
+      {
+        "width": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100569707715835681416/photos\">Vo Thanh Phong</a>"
+        ],
+        "photo_reference": "CmRaAAAAKFfjbQsSv8hKsxc9o4KXuPAUzU53V8imTO-uJi1XB_u6DJDVnUC7YWB16vfuA1rL5pBqeImP-qleQrqm-DZ-GFP_2b0JautohuLChpBkzQZY6B6-1A9XN78fcw71sWLgEhDJlFHCagQEn3gvvSGcasYqGhRtxbULzfwYQytFAJpsbqW3Wu3S5Q",
+        "height": 3264
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "460 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+    "place_id": "ChIJvfwj3yAvdTERHHFebDvUV1s",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "512da1ecd2ed412ef0c098ab4007bf496f183233",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6777447201073,
+          "lat": 10.77150242010728
+        },
+        "northeast": {
+          "lng": 106.6804443798927,
+          "lat": 10.77420207989272
+        }
+      },
+      "location": {
+        "lng": 106.6790801,
+        "lat": 10.7728676
+      }
+    },
+    "reference": "ChIJvfwj3yAvdTERHHFebDvUV1s",
+    "plus_code": {
+      "global_code": "7P28QMFH+4J",
+      "compound_code": "QMFH+4J ph\u01b0\u1eddng 11, District 10, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "SNOB Coffee",
+    "photos": [
+      {
+        "width": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115202192974897465893/photos\">Hi\u1ebfu Ph\u1ea1m Xu\u00e2n</a>"
+        ],
+        "photo_reference": "CmRaAAAA8uJN5S_kvjABYVLnu4OJ50NMCD5beNev4NgccDyFXKQ0aZ3wE0zUyc2YphmCmG_UsN796dx-e9H7NyQ1xIxRZ2jqMASuLLRAEcXhrCcuaK-qZ1BTJiXEk54gTL9lR7QpEhBoEfDM2Mb8jDuhF2PwlzHlGhT1T7eOBDmcgwCYBSzPaJsz0hfLPA",
+        "height": 3096
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "147A \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+    "place_id": "ChIJocR55BUvdTERtfyS9bfqCoM",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "a33a65f6e91e907644e452a22eafd05b7b742024",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6930559701073,
+          "lat": 10.76530177010728
+        },
+        "northeast": {
+          "lng": 106.6957556298927,
+          "lat": 10.76800142989272
+        }
+      },
+      "location": {
+        "lng": 106.694465,
+        "lat": 10.766593
+      }
+    },
+    "reference": "ChIJocR55BUvdTERtfyS9bfqCoM",
+    "plus_code": {
+      "global_code": "7P28QM8V+JQ",
+      "compound_code": "QM8V+JQ C\u1ea7u \u00d4ng L\u00e3nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Highlands Coffee",
+    "photos": [
+      {
+        "width": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116399319235502822590/photos\">Nguy\u00ean L\u00ea</a>"
+        ],
+        "photo_reference": "CmRaAAAAsyd38Urh4BHmGsZ2NPt-E6vwSQnSwhJXpEilmG7iutuo6AZOmlWA1v-q3m4JWgxel7hClOmIUFTDkrEpy5C4Gh0h7OMoPfQhuaPJSyQFaOwQkcKyG8vndgVRxUS4Z78sEhCHtU5Rjfp_4mDcmT8OzK8zGhR41Yks8Afe_Pav-q8dV6u70Nv6Qw",
+        "height": 2448
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "90 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
+    "place_id": "ChIJOVgA-SQvdTER4PZXoOSVtgU",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "fc8934229c397af8874e3ff222c05121722cedca",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6840457201073,
+          "lat": 10.77452197010728
+        },
+        "northeast": {
+          "lng": 106.6867453798927,
+          "lat": 10.77722162989272
+        }
+      },
+      "location": {
+        "lng": 106.6854372,
+        "lat": 10.7759498
+      }
+    },
+    "reference": "ChIJOVgA-SQvdTER4PZXoOSVtgU",
+    "plus_code": {
+      "global_code": "7P28QMGP+95",
+      "compound_code": "QMGP+95 ph\u01b0\u1eddng 6, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.2,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "TOGO Coffee",
+    "photos": [
+      {
+        "width": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114196210897657250653/photos\">L\u00e2m Phan</a>"
+        ],
+        "photo_reference": "CmRaAAAA-ysgBOxVT5dLpx-z1iXeoSV9e-DiZnqEF18sYspUf_GnUTF_Yyn-mLPKfjd7bXGhCetIFWUKTeW4c0K3TDc7ZtiH6tOUfeKx1wKZYqU-lAoJlWyJ5Me8GV5gbK9Ez3E9EhBudoAQA9g_-sfHTii7eYOkGhR6wui1_rXe_9iAAiPjqrgNSD3DNw",
+        "height": 2988
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "7 Nguy\u1ec5n Tr\u00e3i",
+    "place_id": "ChIJad-cMDwvdTERlQEk4rxWb6E",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "7ffa4ba68f3aa40eebfab1023cd22db5957ef723",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6916583201073,
+          "lat": 10.76983172010728
+        },
+        "northeast": {
+          "lng": 106.6943579798927,
+          "lat": 10.77253137989272
+        }
+      },
+      "location": {
+        "lng": 106.6929602,
+        "lat": 10.7712221
+      }
+    },
+    "reference": "ChIJad-cMDwvdTERlQEk4rxWb6E",
+    "plus_code": {
+      "global_code": "7P28QMCV+F5",
+      "compound_code": "QMCV+F5 B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 3.9,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Mylife",
+    "photos": [
+      {
+        "width": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117911920239435898781/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAUgp-lY7AJCYMoW9xitv-bsV5Yiy6kgjTZrHNgfpLbiCMUksFr0extK-trG26PP-glmLU4ka9mgWf9MN3IiLrHdlECIJSwu8y8GGDvt57NItmlaWYzF5BeiaC1z40dh07EhC2CiXRrmQgg-G7IXo84rR9GhTaHiwAupoaM4jvr0OTpKi9Wm8LRw",
+        "height": 1536
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "257 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+    "place_id": "ChIJm4jH7RYvdTERP8AcrK7F1hM",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "75b5a6c3c0d7f420f3eff5c41a4e0ca5e70aa9ed",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6908607201073,
+          "lat": 10.76297917010728
+        },
+        "northeast": {
+          "lng": 106.6935603798927,
+          "lat": 10.76567882989272
+        }
+      },
+      "location": {
+        "lng": 106.6922849,
+        "lat": 10.7642818
+      }
+    },
+    "reference": "ChIJm4jH7RYvdTERP8AcrK7F1hM",
+    "plus_code": {
+      "global_code": "7P28QM7R+PW",
+      "compound_code": "QM7R+PW C\u00f4 Giang, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Luke's Cafe",
+    "photos": [
+      {
+        "width": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102899386229752946321/photos\">\uc7a5\uc720\uc9c4</a>"
+        ],
+        "photo_reference": "CmRaAAAAFJ-AcImTJnAGSKALTy28yPY2qooiy21ijWMolo6Ezq1LWxvyX_Yg507SmcamzoMnNS6a4C84N0cYtu0lByBEPc8S9U0poImfKyNrJCHFpbIKhcxHRzabjZ9WvsLtk6jjEhDdEfTNvNHlDHkeCF3P2PGsGhQGNYabZSTFBkX6OWn-FftJSJ64-A",
+        "height": 2448
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "315 Ph\u1ea1m Ng\u0169 L\u00e3o",
+    "place_id": "ChIJ8eib0xcvdTERNYxtUOXFNsI",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "682d1659bed759572db4c0991b9bd22989d79309",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6893626201073,
+          "lat": 10.76624902010728
+        },
+        "northeast": {
+          "lng": 106.6920622798927,
+          "lat": 10.76894867989272
+        }
+      },
+      "location": {
+        "lng": 106.6907182,
+        "lat": 10.7675838
+      }
+    },
+    "reference": "ChIJ8eib0xcvdTERNYxtUOXFNsI",
+    "plus_code": {
+      "global_code": "7P28QM9R+27",
+      "compound_code": "QM9R+27 Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee House",
+    "photos": [
+      {
+        "width": 753,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112097982392051419841/photos\">Kevin Dinh</a>"
+        ],
+        "photo_reference": "CmRaAAAAYgpiJryrWoznxzvJD_Pq31e7-iEf8JMe68RcMBHmSei-8awUUw7lFwSMOrl6O-Es5NHGvt7sZoVT-5UfoEAQSbt3kpcDy2fk345-13o0oMqYeOqvc4IM_fxD0h1Tn0yfEhBn5b0PobqsgfU9F37KEbHjGhSTPE32dMTgKVRlJpjcfT1FU7zexA",
+        "height": 503
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "130 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
+    "place_id": "ChIJWRQkFiYvdTER34ytufXIGkk",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "48d615ad3ee3b24fdce5b7861f7addd8f8679c13",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6797363701073,
+          "lat": 10.77684497010728
+        },
+        "northeast": {
+          "lng": 106.6824360298927,
+          "lat": 10.77954462989272
+        }
+      },
+      "location": {
+        "lng": 106.681134,
+        "lat": 10.7782582
+      }
+    },
+    "reference": "ChIJWRQkFiYvdTER34ytufXIGkk",
+    "plus_code": {
+      "global_code": "7P28QMHJ+8F",
+      "compound_code": "QMHJ+8F ph\u01b0\u1eddng 8, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee Bean & Tea Leaf - CMT8",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103040903295225794672/photos\">Ph\u01b0\u01a1ng Nguy\u1ec5n \u0110\u0103ng</a>"
+        ],
+        "photo_reference": "CmRaAAAAVcAlaNXjlwAg21R5H7romPu7B6_JrIQ4UpdAPbDEh-St19r6oekHHpPc4k_A5fMrdnQzDzFEeUocyAvxCwrwiZGjXNtl0mhVtry6nvDPvijfXBwssVnb5ZOY0bAUXAl_EhBxcDqJq4S-cBYM8Xp3IsliGhQOr3zQtbfMriVz9Uku1K67gyLukg",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "60-62 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
+    "place_id": "ChIJKeaoTTsvdTEROI-YqMq47S4",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "01508614739619bc5f23b097ca6305c8a16d3322",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6870289701073,
+          "lat": 10.77296237010728
+        },
+        "northeast": {
+          "lng": 106.6897286298927,
+          "lat": 10.77566202989272
+        }
+      },
+      "location": {
+        "lng": 106.6884227,
+        "lat": 10.7743683
+      }
+    },
+    "reference": "ChIJKeaoTTsvdTEROI-YqMq47S4",
+    "plus_code": {
+      "global_code": "7P28QMFQ+P9",
+      "compound_code": "QMFQ+P9 ph\u01b0\u1eddng 6, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Highlands Coffee",
+    "photos": [
+      {
+        "width": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111258137496724876431/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAWsO046aJjgq_em5lXDmBwgS6KLoEWsIe83J1rFFPWKSL_5bxv13za8v4_6ynQt90Q87XCGSqusbeaGMC3SLndgdwbVTLJIbr0-NXzdq3f6s7l-4Ig7ICgMs4URT7m0QwEhArS4VvfftItDsHlVL8vdvRGhQDy24j39Bs_szcXNe5S_QrtPguaQ",
+        "height": 330
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "187 Ph\u1ea1m Ng\u0169 L\u00e3o",
+    "place_id": "ChIJZRiU5T0vdTER8jp8pjK3BLc",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "103973e29e4aacef5740fea6064e06c9f859b345",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6920555201073,
+          "lat": 10.76732197010728
+        },
+        "northeast": {
+          "lng": 106.6947551798927,
+          "lat": 10.77002162989272
+        }
+      },
+      "location": {
+        "lng": 106.6934641,
+        "lat": 10.7686444
+      }
+    },
+    "reference": "ChIJZRiU5T0vdTER8jp8pjK3BLc",
+    "plus_code": {
+      "global_code": "7P28QM9V+F9",
+      "compound_code": "QM9V+F9 Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Purio Coffee",
+    "photos": [
+      {
+        "width": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116930206414108226083/photos\">Momo Shop</a>"
+        ],
+        "photo_reference": "CmRaAAAAnau3ZUrFXew_pewLNp2pmcE6H3F0KODmOg13yCpa-wKADWpJkV7n9WZkFD9KOcoqxAEBwEfVtL4lMoudp85MsXBboS5oEearNJZhfP0o8M2JyXUPiWa3WVrPXDPdq36xEhDCmk84-TFcbrOvlBMZ5oMnGhSYHiMRDcSxD2RejNxJaG2ld7hGKA",
+        "height": 650
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "166 Nguy\u1ec5n Tr\u00e3i",
+    "place_id": "ChIJvXEhbT0vdTEREc3qcdwZ3XY",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "fba08ed39b1c2c543e4d64a0dd699384fea47e1b",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6888092701073,
+          "lat": 10.76782037010728
+        },
+        "northeast": {
+          "lng": 106.6915089298927,
+          "lat": 10.77052002989272
+        }
+      },
+      "location": {
+        "lng": 106.69013,
+        "lat": 10.769209
+      }
+    },
+    "reference": "ChIJvXEhbT0vdTEREc3qcdwZ3XY",
+    "plus_code": {
+      "global_code": "7P28QM9R+M3",
+      "compound_code": "QM9R+M3 B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.5,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "JAPANIT Matcha & Coffee House",
+    "photos": [
+      {
+        "width": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100349432917711198600/photos\">Triet Ho</a>"
+        ],
+        "photo_reference": "CmRaAAAARS-f-ccNKxcDproSTmk3N8b_64q5eCCYhnvbuAcmmDrUK2VB6PyFo4Wo7hqx5jvp2hjQJA5pE_c5Qq-bxmcDxBIdIYuGClWXc20x_I1YjdUheq1XasJNKnE-ECCwA2D_EhBR5EPs3Okj_8UfkM6VUacwGhQVrjiRr442Rvx5mAW5HeXO9s5y6A",
+        "height": 2448
+      }
+    ],
+    "opening_hours": {
+      "open_now": false
+    },
+    "scope": "GOOGLE",
+    "vicinity": "130 \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+    "place_id": "ChIJOcN1YBYvdTERxs17dCCBl0U",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "4b25114183a7c06f72e22719c19fa29deb435839",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6911498201073,
+          "lat": 10.76351012010728
+        },
+        "northeast": {
+          "lng": 106.6938494798927,
+          "lat": 10.76620977989272
+        }
+      },
+      "location": {
+        "lng": 106.6924929,
+        "lat": 10.764867
+      }
+    },
+    "reference": "ChIJOcN1YBYvdTERxs17dCCBl0U",
+    "plus_code": {
+      "global_code": "7P28QM7R+WX",
+      "compound_code": "QM7R+WX Nguy\u1ec5n C\u01b0 Trinh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Mila Coffee",
+    "photos": [
+      {
+        "width": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104274053797151556157/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAwTIqwN2BGIze8QvSngEumYG323wyJXvmlWN9_qAghpevuwHIuBj8UPsCpvCalt-Oo6pzm93Cwg_g5KDf6SS_pApAQEPaMgGXDGKDj9fBNC-J5VjtJjW4HPn3Eyyav-ReEhDxcAUM7u5qLmUeHQ179WmQGhR_9JjEBXWw1zmfOf-J0pS24w7wvQ",
+        "height": 640
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "218 L\u00ea Lai",
+    "place_id": "ChIJwycTZj0vdTERYxRwiFHf8CQ",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "6c96b4c1915ca85fcab08e99c5261fa6430c7300",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6886178701073,
+          "lat": 10.76717087010728
+        },
+        "northeast": {
+          "lng": 106.6913175298927,
+          "lat": 10.76987052989272
+        }
+      },
+      "location": {
+        "lng": 106.6899624,
+        "lat": 10.7685328
+      }
+    },
+    "reference": "ChIJwycTZj0vdTERYxRwiFHf8CQ",
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Tractor Coffee",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114083038777543685602/photos\">Thang Nguyen</a>"
+        ],
+        "photo_reference": "CmRaAAAAKZtY_VSSPaWJn0dhvR_aAtjFiTiRRHCWtJ9laRCatJ85e0w1x8ihC-bC1hHeYx4QCFxeuBwr2oeyVu1-7sURsRlfS2yPKnmrp1TTZ9unhRaYZKoH2khk_E0Aid-cq_VYEhB9c3cBHZM9fCxj9mYhmxpSGhQ5gg2iRa4Cgj8Zt0Dndk402b7CBw",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "98 L\u00ea Lai",
+    "place_id": "ChIJT0CJ0D0vdTERIJ0yR_wRI10",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "b299e90ede941130897efa3ba55c167a4f4260b9",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6920130201073,
+          "lat": 10.76850572010728
+        },
+        "northeast": {
+          "lng": 106.6947126798927,
+          "lat": 10.77120537989272
+        }
+      },
+      "location": {
+        "lng": 106.6933548,
+        "lat": 10.7698773
+      }
+    },
+    "reference": "ChIJT0CJ0D0vdTERIJ0yR_wRI10",
+    "rating": 4.5,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Analog Cafe",
+    "photos": [
+      {
+        "width": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103019152786863322636/photos\">Tuan Nguyen</a>"
+        ],
+        "photo_reference": "CmRaAAAANEaGLk1VZQ1AaqqNPDDOU5jheiY5cq9j21hzfFiUDYPHaDHVY6CoHcbl1j8MALoa6NX949IZw5DRnkIre6m27XlgAnlE91jzbag-25wtQxuPaLqw1U23ajVbDHvLjK8tEhD_fNBMF-D6D5VAZeUsj-EdGhSUlqVJR-Rb2bw4BA1bdLYprgikKw",
+        "height": 4032
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "55 Nguy\u1ec5n S\u01a1n H\u00e0",
+    "place_id": "ChIJL6x6XCIvdTER1jOTFg1WOCg",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "da5ffef11473ba029fdccf0368570a7f38a5cd88",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6832671201073,
+          "lat": 10.76854367010728
+        },
+        "northeast": {
+          "lng": 106.6859667798927,
+          "lat": 10.77124332989272
+        }
+      },
+      "location": {
+        "lng": 106.6846273,
+        "lat": 10.769883
+      }
+    },
+    "reference": "ChIJL6x6XCIvdTER1jOTFg1WOCg",
+    "rating": 4.5,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee House - V\u00f5 V\u0103n T\u1ea7n",
+    "photos": [
+      {
+        "width": 5968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105905493165015306605/photos\">Thanh T\u00f9ng</a>"
+        ],
+        "photo_reference": "CmRaAAAAuJPKnSbtAgldfQODN9PUio8SguxsEnTsy9QgeKiW2z7MbLjHpzKH4-yNmftjMXMxZWjQGfsYAtG1i2RBnTmklMbpqnB4Y676JCNtNh0OEvkMpJr3qd24SMjKZlp97i2WEhD_KmxK2kFvRt-lDYnwSY82GhRNJKkHys6MzVlb035nKs8PdoG5-g",
+        "height": 3968
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "223 V\u00f5 V\u0103n T\u1ea7n",
+    "place_id": "ChIJxTkpViMvdTERN8J6hD0METE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "caaeca87f7254586339db5c302bdf39d98434cff",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6857638701073,
+          "lat": 10.77174767010728
+        },
+        "northeast": {
+          "lng": 106.6884635298927,
+          "lat": 10.77444732989272
+        }
+      },
+      "location": {
+        "lng": 106.6871403,
+        "lat": 10.7730727
+      }
+    },
+    "reference": "ChIJxTkpViMvdTERN8J6hD0METE",
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Passio coffee",
+    "photos": [
+      {
+        "width": 4208,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109118147989176197479/photos\">Tr\u01b0\u1eddng V\u00f5 Th\u1ea1ch Ch\u00ed</a>"
+        ],
+        "photo_reference": "CmRaAAAA2vehw6dGWJ8Fd6GbNwssw1zNnDy3I_8CVhtAxh_A7fIXDKg2UWRZwt7uo0Q8W0vKClyh4NcxP4hCwPho7EJenFQ2V04bMFSAmEmi8kStgK7mHWTtvRZHOTMw3vJ-Qxq-EhDcUISFZAlEjWaZtYqxf7YVGhRDkCHcn7WsPaZ1yY9sJP_GwN7dJg",
+        "height": 2368
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "197 Nguy\u1ec5n Tr\u00e3i",
+    "place_id": "ChIJnWkQihcvdTERABYVbeSkC4U",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "14d3ff523575e4a8945e308e0be592f752af401d",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6867879701073,
+          "lat": 10.76496447010728
+        },
+        "northeast": {
+          "lng": 106.6894876298927,
+          "lat": 10.76766412989272
+        }
+      },
+      "location": {
+        "lng": 106.6882022,
+        "lat": 10.7662963
+      }
+    },
+    "reference": "ChIJnWkQihcvdTERABYVbeSkC4U",
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Hebe Tea & Coffee",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105051559929458218514/photos\">Quoc Bao</a>"
+        ],
+        "photo_reference": "CmRZAAAAX1-xG9hTzRpYSC8PiRj89GfMzqwY9cNTzWDPAMVyBAgX7wrBNuNAvKjgPIrSA4kiYrWpcnPETrGQ6w7qMtBxko17a68gDogJgTvDV_ontnWLA6BfssONIZ96eq_ssjauEhDxgF70WgSQQtcuKdkwig_pGhQS_eDrM6uE1fOqrWLjHWkwX5ZaQA",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": false
+    },
+    "scope": "GOOGLE",
+    "vicinity": "4 Cao Th\u1eafng",
+    "place_id": "ChIJife6cyIvdTEROsKTKuzgaG4",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "ba8f4594377e6070f1ab1bb9b8350f3ec35b3d26",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6824938201073,
+          "lat": 10.76730417010728
+        },
+        "northeast": {
+          "lng": 106.6851934798927,
+          "lat": 10.77000382989272
+        }
+      },
+      "location": {
+        "lng": 106.6839033,
+        "lat": 10.7687226
+      }
+    },
+    "reference": "ChIJife6cyIvdTEROsKTKuzgaG4",
+    "rating": 4.2,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Deja Vu Coffee",
+    "photos": [
+      {
+        "width": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107310166374080677023/photos\">Pham Nhi</a>"
+        ],
+        "photo_reference": "CmRaAAAAUc8Dl0DgX5rWH0JvpAUK1OnDc881t3-YoOisqBniSWNinUG3pfZPrcS2KMiiAa0ilirR1OCwmXN4B1hLojJvlfjyh3SHj_Pbnin1iPIjzohdnWBJNdxoayE11wwpkVPYEhC1AC0vSFhsFEGY_H-I0OJ1GhT9Uo6cVMwK2Z7dLkg76rx9Co4RAg",
+        "height": 2322
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "314/2 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+    "place_id": "ChIJrVPaJyQvdTERD5TLLrsnRuE",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "e2fa9b3094d534ab9571e36c4a33f860ee9fc3bb",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6809245701073,
+          "lat": 10.77438137010728
+        },
+        "northeast": {
+          "lng": 106.6836242298927,
+          "lat": 10.77708102989272
+        }
+      },
+      "location": {
+        "lng": 106.6821404,
+        "lat": 10.7758852
+      }
+    },
+    "reference": "ChIJrVPaJyQvdTERD5TLLrsnRuE",
+    "rating": 4.2,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee Bean & Tea Leaf - Nguy\u1ec5n V\u0103n C\u1eeb",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111818654696661250866/photos\">Th\u00e1i An Nguy\u1ec5n</a>"
+        ],
+        "photo_reference": "CmRaAAAAq407fxPNRb0rmJb60FKVk_EdGegmGLYYDiZ0EP9nF-N1tTgxcvNi0CuPqbOj7X5kQ5riKBusMnS8LMg9bF4GgHyTO35Je5tMMBu9Inu3PfwdLu6YvImX_daDqZsS_XVREhCeiu5aPZzYz6KrdWGq72KtGhTyuzoqNJxNm3xZvJq1a-hwSamWBw",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "235 Nguy\u1ec5n V\u0103n C\u1eeb, Nguy\u1ec5n C\u01b0 Trinh, Qu\u1eadn 1",
+    "place_id": "ChIJ23PXShkvdTERzGkiPhg6Czg",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "e0fcca244c52c8b9a630a913812f1a08117667dc",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6811704701073,
+          "lat": 10.76249787010728
+        },
+        "northeast": {
+          "lng": 106.6838701298927,
+          "lat": 10.76519752989272
+        }
+      },
+      "location": {
+        "lng": 106.6825203,
+        "lat": 10.7638477
+      }
+    },
+    "reference": "ChIJ23PXShkvdTERzGkiPhg6Czg",
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "LACOF",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108364697447262576042/photos\">kihan kim</a>"
+        ],
+        "photo_reference": "CmRaAAAAw0zxpkh__h7C5UOy0NY5wkbBmD3-jW9_aQAGIAYVhQUNR5WnI6WSEnOVFWv4qRWpSv5_YWEAWIBeH8apSLTnPIacn6YBBs7RskjUgLkcSZ-xN2lIXGfhv2iuMHqPnANQEhDQBLQjLK02doNJ4XyeRE0SGhT7oPHil29UDjixxkXwyAQJYX5wrA",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "133 C\u00f4 B\u1eafc",
+    "place_id": "ChIJ64eayxYvdTERVTrNEJG8KDQ",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "c10055b39f77e90c920068fd0bcbe2d42250b7fd",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6917939201073,
+          "lat": 10.76207567010728
+        },
+        "northeast": {
+          "lng": 106.6944935798927,
+          "lat": 10.76477532989272
+        }
+      },
+      "location": {
+        "lng": 106.6931637,
+        "lat": 10.7634024
+      }
+    },
+    "reference": "ChIJ64eayxYvdTERVTrNEJG8KDQ",
+    "rating": 4.4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Tropicland Coffee & Juice Bar",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103594108451218207329/photos\">Kim Bang Nguyen</a>"
+        ],
+        "photo_reference": "CmRaAAAAidAWOANkfrFvRfpJ3BGo5xBoIoUBBOV5Cb6NcvYuQJ6H5aJhhTDM8Cfrn8rg45bWAMKWD-xmys7bqiB3tHiE2rewNlYqrcfGypM03sUGCobFhx1GyZfrilt1m9SelnfxEhCtM5zEtX31LVC_QQ-FXp9MGhTRkjryXZ1G1THD5NgvOwMqWlA6LQ",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "58 Tr\u01b0\u01a1ng \u0110\u1ecbnh",
+    "place_id": "ChIJb1NTSzkvdTERK88Q5Li55Co",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "c362f6f6160372fd90f408c3d929fba55ebffa43",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6944246701073,
+          "lat": 10.77113017010728
+        },
+        "northeast": {
+          "lng": 106.6971243298927,
+          "lat": 10.77382982989272
+        }
+      },
+      "location": {
+        "lng": 106.6957802,
+        "lat": 10.7724845
+      }
+    },
+    "reference": "ChIJb1NTSzkvdTERK88Q5Li55Co",
+    "rating": 4.5,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Highlands Coffee",
+    "photos": [
+      {
+        "width": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101464154493517339082/photos\">Nguyen Quoc Hai</a>"
+        ],
+        "photo_reference": "CmRaAAAAtcNMMOR2Biv_iqbjQoF8zKObP4drz1st9nuFWQUzN44622z8yuUW4W_IAdddW-_ZMb7lXJwL9hCbmWbC8yoCiR6kmXmAg27x9-wzcRM6kLjJFwIwZkWjKuDDnVLX6SJ6EhAf8HeMxYLbFmQobyIoyJCDGhTueke5n99Tmomlt00dUxv8QaE1NQ",
+        "height": 2448
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "3 \u0110\u01b0\u1eddng 3/2",
+    "place_id": "ChIJt__OZSYvdTERaai6U-cUG0Q",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "76728db35a23d2b48f120a5d6f24ed88229645fb",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6790546701073,
+          "lat": 10.77464132010728
+        },
+        "northeast": {
+          "lng": 106.6817543298927,
+          "lat": 10.77734097989272
+        }
+      },
+      "location": {
+        "lng": 106.6804721,
+        "lat": 10.7759542
+      }
+    },
+    "reference": "ChIJt__OZSYvdTERaai6U-cUG0Q",
+    "rating": 3.9,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Darkroom Cafe",
+    "photos": [
+      {
+        "width": 3543,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104106911468178948590/photos\">Dark Room Cafe</a>"
+        ],
+        "photo_reference": "CmRaAAAAoR7tGyxOq-zcs0Sw9HVdlgLY-LDreuHUHz_XLFqZ-EeONvsYoVGH-khQ6Q5Ppmn2fFlUmaUsUIHgoqWTIZLcp2AML6SqSRTJFD19WHatc72f2QJIu1GSHC4qQK6yhW6oEhDdOfGF-iTY7WW9nP5Ek6SqGhRELEzGBfiMZ_EHEm47uYz-cA5eDg",
+        "height": 2397
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "30/1F Ng\u00f4 Th\u1eddi Nhi\u1ec7m",
+    "place_id": "ChIJn3n-PiUvdTERTAk9BI7hBD0",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "70a102d9b3cd2fe8a918d1a968bdd4e5b44aacfb",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6853167701073,
+          "lat": 10.77615172010728
+        },
+        "northeast": {
+          "lng": 106.6880164298927,
+          "lat": 10.77885137989272
+        }
+      },
+      "location": {
+        "lng": 106.686572,
+        "lat": 10.777592
+      }
+    },
+    "reference": "ChIJn3n-PiUvdTERTAk9BI7hBD0",
+    "rating": 4.4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Locks Coffee",
+    "photos": [
+      {
+        "width": 7922,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141489584463309899/photos\">Phuong Luong</a>"
+        ],
+        "photo_reference": "CmRaAAAAR1ZLD_z4L5xexiRPKXGyjXrj0aO3U7xxcicLoo2h5DtAvNBvn5IGiS1GJmEVPajfwTQmHPTo5C7fq0AKmLE0Z1TcuSYLaTplYqsvE179yR7mEKhio2f0Bqqnwx4J5thVEhDUZA9T5sNU7sJbbUqaBPMQGhTnCZul7DzA64xv67g0ETOr6pbpUQ",
+        "height": 3912
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "388 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u",
+    "place_id": "ChIJj3yigSQvdTERggkP1VApPDQ",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "81e366b023902b1d40af5b2086280a7433737d03",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6841212701073,
+          "lat": 10.77235832010728
+        },
+        "northeast": {
+          "lng": 106.6868209298927,
+          "lat": 10.77505797989272
+        }
+      },
+      "location": {
+        "lng": 106.6854101,
+        "lat": 10.7737642
+      }
+    },
+    "reference": "ChIJj3yigSQvdTERggkP1VApPDQ",
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Phu\u0301c Long Coffee & Tea Express",
+    "photos": [
+      {
+        "width": 4656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112577300810246027954/photos\">Jun-hee Shin</a>"
+        ],
+        "photo_reference": "CmRaAAAA6P55kHOHwIf0qi3ZV_3YbL_2ZwE-LWNd5qWjOowzyyhvU1nnjgekc5HT18wFoLxT4M0Kaszaaiy0dEyadCmoIbXdHJc85fiR2pbPhf3aF4mtzJIKSCO9T0R1uDt8qgX5EhB6EbeuP3eBTmx9eagHoRetGhQe2nbkrRQGSZPucBNIBbH71tb4rA",
+        "height": 3492
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "157-159 Nguy\u1ec5n Th\u00e1i H\u1ecdc",
+    "place_id": "ChIJwbzaGD4vdTERa7Hzw723kVk",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "7dcbd93c86f211b67346103ba59d870eac143d54",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6938194201073,
+          "lat": 10.76666007010728
+        },
+        "northeast": {
+          "lng": 106.6965190798927,
+          "lat": 10.76935972989272
+        }
+      },
+      "location": {
+        "lng": 106.695082,
+        "lat": 10.7680226
+      }
+    },
+    "reference": "ChIJwbzaGD4vdTERa7Hzw723kVk",
+    "rating": 4.2,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee House - L\u00ea Th\u1ecb Ri\u00eang",
+    "photos": [
+      {
+        "width": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100832917021786899928/photos\">Tam Tran Thanh</a>"
+        ],
+        "photo_reference": "CmRaAAAAqeXA1qq69LuQ7SeH8vEruB4NZD-CfzzXHPzT1vrhSR8B5Vb1a58BfLPW7LE88ByUcIEPEH6P-IzNctcFgjh5m4SnGHzVcQ806FYR6ZSpWjdqPV4gL3KSLfDJbIBgee3_EhAmrrE1g_mQLSkiBwlpI85UGhRUnu8aKpgIQW2bwtXwrHsX7G-cNA",
+        "height": 1944
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "47 - 49 L\u00ea Th\u1ecb Ri\u00eang, Ph\u01b0\u1eddng B\u1ebfn Th\u00e0nh, Qu\u1eadn 1",
+    "place_id": "ChIJSTS2UDwvdTERjoOnJLTko18",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "e62678ef81793003253b7629aff30f232c48a1dc",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6901572701073,
+          "lat": 10.76982977010728
+        },
+        "northeast": {
+          "lng": 106.6928569298927,
+          "lat": 10.77252942989272
+        }
+      },
+      "location": {
+        "lng": 106.6915071,
+        "lat": 10.7711796
+      }
+    },
+    "reference": "ChIJSTS2UDwvdTERjoOnJLTko18",
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Wayne\u2019s coffee",
+    "photos": [
+      {
+        "width": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109627562644249192439/photos\">Kien P.</a>"
+        ],
+        "photo_reference": "CmRaAAAAkP3uoP8EF8tctgZsznc5_wzYPESFIqwl4zsRXqTY9DfXJ7lmKadZO48E08n7yg-Ni8IS375zoO3UVDMfRxY5bwWHlw3kyc-IBx30HqwiQZe5VmfLjObVEKP01769yLAvEhCcJsQAqb1fjXKu0duaboz2GhQDzLQCYhtFqZRCk_UlKnfsENiX-w",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "Ph\u01b0\u1eddng 12, District 10, Ho Chi Minh City, Vietnam",
+    "place_id": "ChIJ-c-1hBgvdTERq12dxCNRHv0",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "dffcca6197ac7c62ad0831268f638aaceeb6c18c",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6787688701073,
+          "lat": 10.77712357010728
+        },
+        "northeast": {
+          "lng": 106.6814685298927,
+          "lat": 10.77982322989272
+        }
+      },
+      "location": {
+        "lng": 106.6801187,
+        "lat": 10.7784734
+      }
+    },
+    "reference": "ChIJ-c-1hBgvdTERq12dxCNRHv0",
+    "rating": 4.5,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee Bean & Tea Leaf",
+    "photos": [
+      {
+        "width": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110862857633051475334/photos\">Tektips</a>"
+        ],
+        "photo_reference": "CmRaAAAAEaDzLxL74pYgYlmz8ET2dr481pM4XbLPol354gSBmCjzt_KlxyqDduM1Ncwpp3-7NN_uK2QC5m-36dpgXlspgtXqV7TVaRUGSI4GHIR198-hhV60OGalUVVMtqf5jJjcEhCRC3Nqv1QxxgZuZ8aGn3i0GhQvjMnJiyxSXnyBB_15-2VSUnonIQ",
+        "height": 960
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "194 V\u00f5 V\u0103n T\u1ea7n",
+    "place_id": "ChIJxwGoTTsvdTERYZsSeRuSSM8",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "95bea71cb26267ffe8fe9656421dc8c07b53937a",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6869022201073,
+          "lat": 10.77294132010728
+        },
+        "northeast": {
+          "lng": 106.6896018798927,
+          "lat": 10.77564097989272
+        }
+      },
+      "location": {
+        "lng": 106.6882686,
+        "lat": 10.7742766
+      }
+    },
+    "reference": "ChIJxwGoTTsvdTERYZsSeRuSSM8",
+    "rating": 3.7,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Journal Coffee",
+    "photos": [
+      {
+        "width": 4618,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101667530667288324064/photos\">Tri C\u1ea9m</a>"
+        ],
+        "photo_reference": "CmRaAAAAB_5DjroQiEUdRb_f6E2br_cF9Yap1Hc0bgtc3qeViY86XLu82HoYR_fnAubNACHYQa5Z6f3vqgLz1DELlIQHEWxStWbfOWQ1aLxPnqFYeIcQeNbHuBplcut3z2W3B1nKEhCYBQl4vtEOwzzVSbPigoW3GhToQS6OzCOemskKygHgqzlxwC8mBw",
+        "height": 3464
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "87 Tr\u01b0\u01a1ng \u0110\u1ecbnh",
+    "place_id": "ChIJUV4glTovdTERdRE0wpetFWQ",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "e787fa6361764174c33c29ae12e52ede9eafb691",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6884439201073,
+          "lat": 10.77625437010728
+        },
+        "northeast": {
+          "lng": 106.6911435798927,
+          "lat": 10.77895402989272
+        }
+      },
+      "location": {
+        "lng": 106.689736,
+        "lat": 10.7775459
+      }
+    },
+    "reference": "ChIJUV4glTovdTERdRE0wpetFWQ",
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "SNOB Coffee",
+    "photos": [
+      {
+        "width": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104310371237214301297/photos\">Dennis Raw</a>"
+        ],
+        "photo_reference": "CmRaAAAA8Uf6rpbH0BoGYiiaT0bdtYE6_YQEFOSB4-vxfFRAf5n4YJ61VaCAve-p3Jub1TeAYHgGVl3LEcBLp7HtbKkBBd1UPY3tKrrI1E8-cF4c-rV6aE7ZkXUGJqz2zdL3KeE7EhDxcjyUkCD6oLaUOyXUvDCYGhTpsnX8cY1l7YgyJBh20ou1amHDEQ",
+        "height": 2048
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "185 Nguy\u1ec5n Th\u1ecb Minh Khai",
+    "place_id": "ChIJp7w47yIvdTERH2-D-3f-U_8",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "133a83fd2ac9501086a2f56d16c43556592bf488",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6848514701073,
+          "lat": 10.76870777010728
+        },
+        "northeast": {
+          "lng": 106.6875511298927,
+          "lat": 10.77140742989272
+        }
+      },
+      "location": {
+        "lng": 106.686213,
+        "lat": 10.7700473
+      }
+    },
+    "reference": "ChIJp7w47yIvdTERH2-D-3f-U_8",
+    "rating": 4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Cafe Vy",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108604615485589194774/photos\">tai nguyen</a>"
+        ],
+        "photo_reference": "CmRaAAAA_1c6YWZVv2XPuVItAJAHIsDIITeSqkuzCfy98jrxnKdgO861Ryq0Bme4yZCu0DfNmTcbfECl-t3_CGv9E1yjSsEsADSLpYZI1x3bk2bDc_R3U_BDa2CAB4VeYqy6cGPWEhC3urQ-L9o0zrH4oI_r8F4SGhQQN3eLXYtXtJpx0EjxaYl73kZ_iA",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "277E L\u00ea Th\u00e1nh T\u00f4n",
+    "place_id": "ChIJQbuH6j4vdTERePZiy3gjiyA",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "cbc87f6a6898e569d27166b40d395be482acf76a",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6939982201073,
+          "lat": 10.77030887010728
+        },
+        "northeast": {
+          "lng": 106.6966978798927,
+          "lat": 10.77300852989272
+        }
+      },
+      "location": {
+        "lng": 106.6953597,
+        "lat": 10.7716401
+      }
+    },
+    "reference": "ChIJQbuH6j4vdTERePZiy3gjiyA",
+    "rating": 4.2,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Starbucks New World",
+    "photos": [
+      {
+        "width": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114462842391485372889/photos\">Starbucks Coffee</a>"
+        ],
+        "photo_reference": "CmRaAAAARyngnAwE1CToS1J4LyLomZKlu0R0AtYLmYtof285m4FbcWptQOevN6kEc5Kp6oo3JwFafHbPzgrO5tuANCTCdYWT3aIe3bRX-bOVbDpn8t1ehuON-fPxghe3KoPSpitYEhD_YNYkpghep8PgXIlzPhI_GhTJD97_QaroZoiJ_Zpn9vh9wyuuQQ",
+        "height": 1363
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "G\u00f3c \u0111\u01b0\u1eddng Ph\u1ea1m H\u1ed3ng Th\u00e1i giao Nguy\u1ec5n Th\u1ecb Ngh\u0129a New World Hotel, 76 L\u00ea Lai, Ben Nghe Ward Ho Chi Minh Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000 VN, 76 L\u00ea Lai",
+    "place_id": "ChIJ6b31KDwvdTERU6PsqpnHjXg",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "d4b5c0c043959655aa13a37a662e53904eb201cb",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6924841701073,
+          "lat": 10.76976352010728
+        },
+        "northeast": {
+          "lng": 106.6951838298927,
+          "lat": 10.77246317989272
+        }
+      },
+      "location": {
+        "lng": 106.6938346,
+        "lat": 10.771141
+      }
+    },
+    "reference": "ChIJ6b31KDwvdTERU6PsqpnHjXg",
+    "plus_code": {
+      "global_code": "7P28QMCV+FG",
+      "compound_code": "QMCV+FG B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.2,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "BAZZAN Coffee",
+    "photos": [
+      {
+        "width": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101214338975497149658/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAjXBnWZXEPItbw9xhv-fGgW49qVpjie1XIRb1eb-PNe86Gk6LHz32Ndv7cuW41m4iyJ3LauH_HtN-L83-5tWIj2Ww3lTdAjvIuIgPdOfCXxPfnk8q9UWyC25P57p7Fk6CEhCXHlZ_54L0ZwA_PUrXX0p0GhSN91usrrLv-f2kpzWk4CDq6joZ2w",
+        "height": 3264
+      }
+    ],
+    "opening_hours": {},
+    "scope": "GOOGLE",
+    "vicinity": "173 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m",
+    "place_id": "ChIJrWqs4hUvdTERtys4qO9uOLE",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "beb64a7e8dc377ba16c822ec7b10fc0a32253c42",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6927364701073,
+          "lat": 10.76570272010728
+        },
+        "northeast": {
+          "lng": 106.6954361298927,
+          "lat": 10.76840237989272
+        }
+      },
+      "location": {
+        "lng": 106.694009,
+        "lat": 10.76701
+      }
+    },
+    "reference": "ChIJrWqs4hUvdTERtys4qO9uOLE",
+    "plus_code": {
+      "global_code": "7P28QM8V+RJ",
+      "compound_code": "QM8V+RJ Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 2,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Highlands Coffee - \u0110\u1ec1 Th\u00e1m",
+    "photos": [
+      {
+        "width": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100846767243078426632/photos\">Jaeho Choi</a>"
+        ],
+        "photo_reference": "CmRaAAAAPAezcEqX3MrJXM7PWFAF_MS5OgPRHZo5AWht4LfammfNJxraDpZiBFhXs4DP1Z6bF4r6m-JJH7K7ljS1OWbgKdBCCmEhj1A8SXG9OaMl-Oz79OIOxF0O_U0By4Pk5YMZEhA0K6rFoRgeg0sQ3EyZThBOGhT9tVfgCiKqFmUd_H7TKvTIX9cEJQ",
+        "height": 2988
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "272 \u0110\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m",
+    "place_id": "ChIJ61ij5T0vdTERvmYfp3V8MlY",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "a2c18afe44766b9b2b63061fc1db6245a5c6ac58",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6919788701073,
+          "lat": 10.76726592010728
+        },
+        "northeast": {
+          "lng": 106.6946785298927,
+          "lat": 10.76996557989272
+        }
+      },
+      "location": {
+        "lng": 106.693358,
+        "lat": 10.768632
+      }
+    },
+    "reference": "ChIJ61ij5T0vdTERvmYfp3V8MlY",
+    "plus_code": {
+      "global_code": "7P28QM9V+F8",
+      "compound_code": "QM9V+F8 Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 3.7,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Kiss and Ride Coffee",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113775209142308561902/photos\">Avishai Weiss</a>"
+        ],
+        "photo_reference": "CmRaAAAATTkJB1dFPmcpMWqXwAsilBU6gDwzTuaHNkKhZ4-IAcVW1rIvlt2M7DLzTA9BBOtQ7dxbp-D1xaT5lvvWc6IWsaDfwiaRo6llJ5ZKdEWcPowBgipwmiDubHC0SE3uJ1TJEhDyHD6wDioD_Mej7nfJ4DEiGhQofne_6UJ6qqxvi39AqKwZpf4A9A",
+        "height": 3024
+      }
+    ],
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "scope": "GOOGLE",
+    "vicinity": "241/6 Ph\u1ea1m Ng\u0169 L\u00e3o",
+    "place_id": "ChIJdZQGIBYvdTERAyzfSjF_7uU",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "4b79c4affeb18d1b288a15e3ee8408498d32148f",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6910228201073,
+          "lat": 10.76666387010728
+        },
+        "northeast": {
+          "lng": 106.6937224798927,
+          "lat": 10.76936352989272
+        }
+      },
+      "location": {
+        "lng": 106.692476,
+        "lat": 10.767774
+      }
+    },
+    "reference": "ChIJdZQGIBYvdTERAyzfSjF_7uU",
+    "plus_code": {
+      "global_code": "7P28QM9R+4X",
+      "compound_code": "QM9R+4X Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 5
+  },
+  {
+    "name": "The Coffee House- L\u00ea Th\u1ecb Ri\u00eang",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110303700012271243163/photos\">Zhide L</a>"
+        ],
+        "photo_reference": "CmRaAAAA3jbFE9dPAzokeFij9v_SJOhwwPjtigMcXpTxzJuZqxN3amSWiKJPMceyf9Q2e-Zg8e-R9ZV45PIfp9dQ6kmWnwgkQic5fDYPywTRcHXXxRjdH-FF5kBh0cKDYhQE0LuaEhBCfaI0EBGpzhQ4I0PpNzxPGhSbKelSCEt0lCJkAdp5qu98AWcAyQ",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": false
+    },
+    "scope": "GOOGLE",
+    "vicinity": "47 L\u00ea Th\u1ecb Ri\u00eang",
+    "place_id": "ChIJr-eUUDwvdTERNcEuaQeONi0",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "d6290cc711b65367d42868e8a1e8e9df173b8643",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6901344701073,
+          "lat": 10.76990062010728
+        },
+        "northeast": {
+          "lng": 106.6928341298927,
+          "lat": 10.77260027989272
+        }
+      },
+      "location": {
+        "lng": 106.6915066,
+        "lat": 10.7711681
+      }
+    },
+    "reference": "ChIJr-eUUDwvdTERNcEuaQeONi0",
+    "plus_code": {
+      "global_code": "7P28QMCR+FJ",
+      "compound_code": "QMCR+FJ B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "La Mode Coffee Shop",
+    "photos": [
+      {
+        "width": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105667094952522144884/photos\">Bao Le Ngoc</a>"
+        ],
+        "photo_reference": "CmRaAAAAe5RCgO_EtWpKHzkxoTvqsj-AGeQv2x-7INhSx4N2aDQH4xiK8Ii3vUTMdXAhdq-4c_v55d5ObvjgS0SNwPOry8ICQqApExt_bgTol_TQSVqOO-PX7spsIJCWIyX-nbaoEhDQxF1f9N209817jAiHNZ0eGhRcWTuOfuJBwjpvoFuixe2ytqNXug",
+        "height": 2988
+      }
+    ],
+    "opening_hours": {},
+    "scope": "GOOGLE",
+    "vicinity": "118 Bui Thi Xuan Street, Ben Thanh Ward, District 1, Ho Chi Minh City",
+    "place_id": "ChIJo-TeJj0vdTERev10Pqw0a0A",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "f43d626738d235e2a24d2754b5ff697c5d82bbf8",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6872580701073,
+          "lat": 10.76870457010728
+        },
+        "northeast": {
+          "lng": 106.6899577298927,
+          "lat": 10.77140422989272
+        }
+      },
+      "location": {
+        "lng": 106.6886079,
+        "lat": 10.7700544
+      }
+    },
+    "reference": "ChIJo-TeJj0vdTERev10Pqw0a0A",
+    "plus_code": {
+      "global_code": "7P28QMCQ+2C",
+      "compound_code": "QMCQ+2C B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 3.8,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Mr.8 Coffee",
+    "photos": [
+      {
+        "width": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102023456876967491732/photos\">Totoro Stalla</a>"
+        ],
+        "photo_reference": "CmRaAAAAsIOt_XRxybegPwoakXqcYpLWPgQXeMv6llnl7mtsMR9lLsvmcXNP_B4UO_wu3GiQiJRIo5n271_EOcnLklczWNc_BpJ3ZTZiNH-52oiaSsFH8uCBGnrYYRuP-r-Y1Sy0EhAUOiIZB489he7kdZ9Zt9AuGhSIt27Oe-T719hBwm0eiSfK8_B3_g",
+        "height": 2592
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "2 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
+    "place_id": "ChIJn4YPIzwvdTERa_zBomYN0rU",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "5759de2891760dee5900829749683c94ea14b86c",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6920649701073,
+          "lat": 10.77025527010728
+        },
+        "northeast": {
+          "lng": 106.6947646298927,
+          "lat": 10.77295492989272
+        }
+      },
+      "location": {
+        "lng": 106.6934148,
+        "lat": 10.7716051
+      }
+    },
+    "reference": "ChIJn4YPIzwvdTERa_zBomYN0rU",
+    "plus_code": {
+      "global_code": "7P28QMCV+J9",
+      "compound_code": "QMCV+J9 B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Fugashin Coffee",
+    "photos": [
+      {
+        "width": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107871075134520342520/photos\">Patrick Ortiz</a>"
+        ],
+        "photo_reference": "CmRaAAAAF2kJH8c9dPx1fKMifWTcJAke6-dZygp3ylapCHTYPr3USCpVF__ncT9_uq0N1YxkIdb4qCOGN0K06o4aW4ny2XRKr_deZzR_Gjv39J1TQoptEnnNdLdeJuMx0Tt9Rzc8EhAjPTEcS46dcw4Xi3qWV3cgGhQjoPhLo5PPMZWM_tRQZAvsF-DS_g",
+        "height": 2988
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "15 V\u00f5 V\u0103n T\u1ea7n",
+    "place_id": "ChIJAU3idDovdTERZZRbVaP8DTI",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "57befb74dd7ac7e8b0cdbcb0fa08e768d5eb141d",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6909650701073,
+          "lat": 10.77721722010728
+        },
+        "northeast": {
+          "lng": 106.6936647298927,
+          "lat": 10.77991687989272
+        }
+      },
+      "location": {
+        "lng": 106.6923831,
+        "lat": 10.778506
+      }
+    },
+    "reference": "ChIJAU3idDovdTERZZRbVaP8DTI",
+    "plus_code": {
+      "global_code": "7P28QMHR+CX",
+      "compound_code": "QMHR+CX ph\u01b0\u1eddng 6, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee House - Ph\u1ea1m Ng\u0169 L\u00e3o",
+    "photos": [
+      {
+        "width": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112797619282218149781/photos\">Tran Cuong</a>"
+        ],
+        "photo_reference": "CmRaAAAAs12Y7sbImAsJxtgaJVZSdhQwb0fzbT9mAnJu44hykEFyfx6yBhZhOIwlHBGqu60MXzSZeCegk3N_3Dvp1pXnOFEqwGB7XtMsoHlNp-bJghAQ2iFTagKt8IuPuaUO8uVMEhBGq-_qfEf79oN87figiaVuGhQ-jWI7hhS7BwUT6KsFe5k1DhV2DQ",
+        "height": 1385
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "161 Ph\u1ea1m Ng\u0169 L\u00e3o",
+    "place_id": "ChIJ4zbycj4vdTERLjTUY7uEyHM",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "0cd27e55ffd080c7dee4cdec3a8f9fdec7785dfd",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6932598201073,
+          "lat": 10.76781482010728
+        },
+        "northeast": {
+          "lng": 106.6959594798927,
+          "lat": 10.77051447989272
+        }
+      },
+      "location": {
+        "lng": 106.694607,
+        "lat": 10.7691711
+      }
+    },
+    "reference": "ChIJ4zbycj4vdTERLjTUY7uEyHM",
+    "plus_code": {
+      "global_code": "7P28QM9V+MR",
+      "compound_code": "QM9V+MR Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "8ight Coffee",
+    "photos": [
+      {
+        "width": 2283,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105554964704008014456/photos\">Vincent Oliver</a>"
+        ],
+        "photo_reference": "CmRaAAAAPiHHnnzYr5kqv-WiCIlG5K3dmqNvjR4HJJaqz2W2U6Mi6M5-rxDWvSrUrefEZsbgTy7-T5x1rsCev6Ik5Yn68b-cY5i8H9LamcNmEYQy6_QT6x0tAgWMyTaMLVRLnzDLEhDrVHUPmt8GzV_tJxoYhrpPGhQsVm8GAbfACIyVTL8CQq9ubuTahg",
+        "height": 3056
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "8 BIS Nguyen Van Trang",
+    "place_id": "ChIJz6EIyD0vdTERpLp_Ov2mlU0",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "ca2f3d192be4399db9b4e6dc25cf93788a4b2789",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6912032701073,
+          "lat": 10.76849477010728
+        },
+        "northeast": {
+          "lng": 106.6939029298927,
+          "lat": 10.77119442989272
+        }
+      },
+      "location": {
+        "lng": 106.6925531,
+        "lat": 10.7698446
+      }
+    },
+    "reference": "ChIJz6EIyD0vdTERpLp_Ov2mlU0",
+    "plus_code": {
+      "global_code": "7P28QM9V+W2",
+      "compound_code": "QM9V+W2 B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.6,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee House - Ng\u00f4 Th\u1eddi Nhi\u1ec7m",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104892957916724893860/photos\">Cuong Ken</a>"
+        ],
+        "photo_reference": "CmRaAAAAUNzfSjpNDL2oC2VmNUee2n4NFjDtPwKc8dFcRCxmMNNfHrIQdu1iePL8DWLaC3NUFmO3FohqAacIS1DpmARAHNGkYndq_UhEyYZCgc_HiCtVf6Z7A3d8Dw77jKeaaghHEhDvKJC_13OleMPoD_8oYlwaGhQgdEU3NutuBFsbDPdoZK3ViSzIlA",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "6A Ng\u00f4 Th\u1eddi Nhi\u1ec7m",
+    "place_id": "ChIJYUxkRjAvdTERnPrlpm-odvk",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "f5cdc477163fdf532add3aeb93ec43c084302ea0",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6887317201073,
+          "lat": 10.77942462010728
+        },
+        "northeast": {
+          "lng": 106.6914313798927,
+          "lat": 10.78212427989272
+        }
+      },
+      "location": {
+        "lng": 106.6900591,
+        "lat": 10.7807982
+      }
+    },
+    "reference": "ChIJYUxkRjAvdTERnPrlpm-odvk",
+    "plus_code": {
+      "global_code": "7P28QMJR+82",
+      "compound_code": "QMJR+82 ph\u01b0\u1eddng 6, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Root Coffee",
+    "photos": [
+      {
+        "width": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115734647493948156045/photos\">Dat Pham Van</a>"
+        ],
+        "photo_reference": "CmRaAAAANa2kRYlweqe1aTj17IFfAOqeR9ib7JeUNZC2pXii85G4af8l7rNKPRKTfUQwasfmLcACMiwqlE1_eBNu8_HUDUkiHM1lEKQcdeIgxurTO92kgajlrJNaORTfs0J_brCLEhDywkD-RZ40fvSwhUPBRlWbGhTPYhIk1Yw-82QgHRj78zmlD3T-ww",
+        "height": 2988
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "382/22 Nguy\u1ec5n Th\u1ecb Minh Khai",
+    "place_id": "ChIJAQDASCMvdTERbQj7l0JhQ-I",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "f4b47512aaa2078696bd9e848d2baec14a232235",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6863084201073,
+          "lat": 10.77086742010728
+        },
+        "northeast": {
+          "lng": 106.6890080798927,
+          "lat": 10.77356707989272
+        }
+      },
+      "location": {
+        "lng": 106.6874392,
+        "lat": 10.7724071
+      }
+    },
+    "reference": "ChIJAQDASCMvdTERbQj7l0JhQ-I",
+    "plus_code": {
+      "global_code": "7P28QMCP+XX",
+      "compound_code": "QMCP+XX ph\u01b0\u1eddng 5, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.5,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Heart Coffee",
+    "photos": [
+      {
+        "width": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101714666055401206763/photos\">Gabi Mart\u00ednez-Falero U</a>"
+        ],
+        "photo_reference": "CmRaAAAAuo8MeB04EYYgHunnM-jHaA9t8DxDz9SauoTdt4MtcdlfCR_LJc24CWpYZi47g23k2nd2uJ_vGQ0QFKU9j-6sM08UTFD9NVt2z7z0TILN7iD5JtxUHNL7v22BWP0rauxoEhCyyW2lArXKQ-rrMj_PWyK-GhQ7tYIvQnftoG8Vag49l6WFDfLQfA",
+        "height": 5312
+      }
+    ],
+    "opening_hours": {},
+    "scope": "GOOGLE",
+    "vicinity": "Minh Tinh, 115 V\u00f5 V\u0103n T\u1ea7n",
+    "place_id": "ChIJ9zQT4jovdTERJqSUkYpB8Dw",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "ad10539111827add743948fb0992ced83096b7f3",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6886403701073,
+          "lat": 10.77482662010728
+        },
+        "northeast": {
+          "lng": 106.6913400298927,
+          "lat": 10.77752627989272
+        }
+      },
+      "location": {
+        "lng": 106.6900181,
+        "lat": 10.7761514
+      }
+    },
+    "reference": "ChIJ9zQT4jovdTERJqSUkYpB8Dw",
+    "plus_code": {
+      "global_code": "7P28QMGR+F2",
+      "compound_code": "QMGR+F2 ph\u01b0\u1eddng 6, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.1,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Passio Coffee",
+    "photos": [
+      {
+        "width": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107763613854806200904/photos\">Black Sodiva</a>"
+        ],
+        "photo_reference": "CmRaAAAAil8N66tIfwSq0v_D6mrx2pWFA5Oq1sJ1BNccqQf-1mh43kIz_tdKOxwKI_FVCiZOXtxuhcfXhAGsrGWSP-6bYMsFw1ZKHDDReWBFnCMsQxJWLA1mhpydOCP0ksMEqOwEEhB2NVs4mtUv54oKTedFKr6kGhSZGdsHijhltlFpSq_FrPW6Zuh5CA",
+        "height": 3120
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "179B Nguy\u1ec5n C\u01b0 Trinh",
+    "place_id": "ChIJqaNb-BkvdTERpk9g1D7dDzo",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "655721bb9d86e13cde2af4db0c4010d9aefc54e9",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6861281201073,
+          "lat": 10.76143717010728
+        },
+        "northeast": {
+          "lng": 106.6888277798927,
+          "lat": 10.76413682989272
+        }
+      },
+      "location": {
+        "lng": 106.6874989,
+        "lat": 10.7627325
+      }
+    },
+    "reference": "ChIJqaNb-BkvdTERpk9g1D7dDzo",
+    "plus_code": {
+      "global_code": "7P28QM7P+3X",
+      "compound_code": "QM7P+3X Nguy\u1ec5n C\u01b0 Trinh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 3.9,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "3T Coffee",
+    "photos": [
+      {
+        "width": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116940607734287670596/photos\">Khanh Cao Ph\u01b0\u01a1ng</a>"
+        ],
+        "photo_reference": "CmRaAAAAeZtJIYlc5LWE7z9hAqstG6bNSSUi0ROT8ee1jyttmrhMBdCw70GOnB3pxGkv7CXbuf4ll7ehTrrPoGkwQrhMRsQqc4HDZUh_WSeYrBlUyGNjgAMWfJGReJIKo-bIhZuHEhBDk2Lp_g_yfWVC_ygkM5wfGhQuYeWprBvniFXHt04c0LcX5pQC_Q",
+        "height": 720
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "29 \u0110\u01b0\u1eddng H\u00f9ng V\u01b0\u01a1ng",
+    "place_id": "ChIJCczHdR4vdTERqHFILlHQ2tA",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "30d1587b8630a6440ee161fe7d926b33c0778912",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6776410701073,
+          "lat": 10.76246207010728
+        },
+        "northeast": {
+          "lng": 106.6803407298927,
+          "lat": 10.76516172989272
+        }
+      },
+      "location": {
+        "lng": 106.6789912,
+        "lat": 10.7638115
+      }
+    },
+    "reference": "ChIJCczHdR4vdTERqHFILlHQ2tA",
+    "plus_code": {
+      "global_code": "7P28QM7H+GH",
+      "compound_code": "QM7H+GH ph\u01b0\u1eddng 2, District 10, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.7,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Trung Nguy\u00ean Legend Cafe",
+    "photos": [
+      {
+        "width": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115559627719659135574/photos\">Halo Sun</a>"
+        ],
+        "photo_reference": "CmRZAAAA6zY-g87fhXOCj-swKadg6SGZ6Mwz6GxDMEhpKbhHRA5jhhmLerdUIoyVHvSBddXeyIIy0allfQti99gCt95x8_R_pkzui6oW89BVVEMJsf51bTcVdmD3x9Q1yb3TxOBKEhDjSLND4tE_-CgN35Z6989SGhTJXnuwvOLkxlis0KYkbRH73DG4eg",
+        "height": 4032
+      }
+    ],
+    "opening_hours": {
+      "open_now": false
+    },
+    "scope": "GOOGLE",
+    "vicinity": "1 \u0110\u1ed7 Quang \u0110\u1ea9u",
+    "place_id": "ChIJZQGXSxYvdTERdvrVDWrob7Y",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "76136ddb9eb4fb1fc1bdf01a1a6a87af1b9ea6f4",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6899485201073,
+          "lat": 10.76489322010728
+        },
+        "northeast": {
+          "lng": 106.6926481798927,
+          "lat": 10.76759287989272
+        }
+      },
+      "location": {
+        "lng": 106.691273,
+        "lat": 10.7662288
+      }
+    },
+    "reference": "ChIJZQGXSxYvdTERdvrVDWrob7Y",
+    "plus_code": {
+      "global_code": "7P28QM8R+FG",
+      "compound_code": "QM8R+FG Ph\u1ea1m Ng\u0169 L\u00e3o, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 3.8,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "3Some Coffee",
+    "photos": [
+      {
+        "width": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116930206414108226083/photos\">MOMO SHOP</a>"
+        ],
+        "photo_reference": "CmRaAAAAutkAyk8OLkvs0yv7EbRHc5GIeVSSyFnmieeCJ_hfifljoHi3Td3mU284aaJTU_oGFqwhj4Zf4ZJYpH4JV2jl__QKGd_dvff_y0JRYLRI26HVf9ULMbQSSHy337SBRfmWEhBg5sl_ifnvfbfiLWwust1NGhSrCGt9bk3Sg4mX5zGTfR6529yTYA",
+        "height": 720
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "150/8B Nguy\u1ec5n Tr\u00e3i",
+    "place_id": "ChIJtXbRDz0vdTERROaeu7zcDic",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "5127336bf491dbea01c0efebc068cc75a28133f9",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6891175201073,
+          "lat": 10.76827002010728
+        },
+        "northeast": {
+          "lng": 106.6918171798927,
+          "lat": 10.77096967989272
+        }
+      },
+      "location": {
+        "lng": 106.6903283,
+        "lat": 10.7698057
+      }
+    },
+    "reference": "ChIJtXbRDz0vdTERROaeu7zcDic",
+    "plus_code": {
+      "global_code": "7P28QM9R+W4",
+      "compound_code": "QM9R+W4 B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.3,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "The Coffee Factory",
+    "photos": [
+      {
+        "width": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107408170640777320184/photos\">Huy Tran</a>"
+        ],
+        "photo_reference": "CmRaAAAABsGWXljG0DtBGMxN0yVpjK6cTY6EhnWd6kWocMSiY_JoTCfyAga3dMzsaV99hyrLybQk-xwj9qEyxzhK5IjtV7YVQbWvKe6UgqHwAm_puawm8aIFGiOSKLe9M_vkgTtwEhC5QDl2e4DJ5KCiRko0_XDOGhR3Yp8rnNsGWoaSYBDbX9tNw4-WDg",
+        "height": 1080
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "107A Tr\u01b0\u01a1ng \u0110\u1ecbnh",
+    "place_id": "ChIJI5HmrTovdTERPcv3aW8X8PQ",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "b0e6c3d67b62d4855f870c26ee8c33980a37cdea",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6877519201073,
+          "lat": 10.77693062010728
+        },
+        "northeast": {
+          "lng": 106.6904515798927,
+          "lat": 10.77963027989272
+        }
+      },
+      "location": {
+        "lng": 106.6890683,
+        "lat": 10.7782464
+      }
+    },
+    "reference": "ChIJI5HmrTovdTERPcv3aW8X8PQ",
+    "plus_code": {
+      "global_code": "7P28QMHQ+7J",
+      "compound_code": "QMHQ+7J ph\u01b0\u1eddng 6, District 3, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "StepUp Coffee",
+    "photos": [
+      {
+        "width": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116567212006902850602/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAr2-2alYOrm_1i34iKnB1gvQB7tx50addih1vZaSBxOm8QmAbeazp89IzbwBmK4w6tFXdMKjc6OheZMYpDOzylmVER1B4OhPCU_RVPAH4kh7SbC1DSCeykiTDzlGLM9ZwEhBrnGKwjyaPrmJAeCVKxMe9GhTudQ1Pneo49ferpyE16WRJULlhlQ",
+        "height": 1936
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "32 Ph\u1ea1m H\u1ed3ng Th\u00e1i",
+    "place_id": "ChIJJ-Fd6T4vdTER1SraOPHwHpc",
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "fade1c14731b26335222f3729745cf31a0f55507",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6944882701073,
+          "lat": 10.76995002010728
+        },
+        "northeast": {
+          "lng": 106.6971879298927,
+          "lat": 10.77264967989272
+        }
+      },
+      "location": {
+        "lng": 106.6958375,
+        "lat": 10.7713864
+      }
+    },
+    "reference": "ChIJJ-Fd6T4vdTER1SraOPHwHpc",
+    "plus_code": {
+      "global_code": "7P28QMCW+H8",
+      "compound_code": "QMCW+H8 B\u1ebfn Th\u00e0nh, District 1, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  },
+  {
+    "name": "Highlands Coffee",
+    "photos": [
+      {
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106410153731409865044/photos\">C\u00e1o C\u00f4ng Ngh\u1ec7</a>"
+        ],
+        "photo_reference": "CmRaAAAAoLdDLdJjc9BqB9leJ-kgy7RNwHzupPWQE8vOmhxHwC1wnKBb4N9zzxrn7y4roABWC35xtDCN9rrgSogCLwACDp_KUkxY1wtXvKsi0EnqW4iw8oFK16DSP1-uMGIlQspBEhAXG1M9TZHJjybWDR827KZOGhS9x2sKUON6R8lhe8qmdE6O2y-Tvg",
+        "height": 3024
+      }
+    ],
+    "opening_hours": {
+      "open_now": true
+    },
+    "scope": "GOOGLE",
+    "vicinity": "285 C\u00e1ch M\u1ea1ng Th\u00e1ng 8",
+    "place_id": "ChIJhShHOiYvdTERV7A7lVNydGw",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "id": "dfa6d2f72417802792bc903193e6bb18db64c63c",
+    "geometry": {
+      "viewport": {
+        "southwest": {
+          "lng": 106.6787891201073,
+          "lat": 10.77713857010728
+        },
+        "northeast": {
+          "lng": 106.6814887798927,
+          "lat": 10.77983822989272
+        }
+      },
+      "location": {
+        "lng": 106.6800902,
+        "lat": 10.7783976
+      }
+    },
+    "reference": "ChIJhShHOiYvdTERV7A7lVNydGw",
+    "plus_code": {
+      "global_code": "7P28QMHJ+92",
+      "compound_code": "QMHJ+92 Ph\u01b0\u1eddng 12, District 10, Ho Chi Minh City, Vietnam"
+    },
+    "rating": 4.2,
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png"
+  }
+]
