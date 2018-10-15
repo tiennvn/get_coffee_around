@@ -1,4 +1,4 @@
-# Get Coffee store around the location
+# Get Coffee store around location
 
 ## Code review:
 - code file: get_coffee_place.py
